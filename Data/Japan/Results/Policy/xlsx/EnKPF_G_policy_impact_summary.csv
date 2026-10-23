@@ -1,0 +1,4 @@
+Scenario,BetaF_Change_Percent,Average_Peak_Reduction_Percent,Wave1_Reduction_Percent,Wave2_Reduction_Percent,Wave3_Reduction_Percent,Activation_Fraction,Wave1_Activation_Elapsed_Days,Wave1_Activation_Model_Time,Wave1_Activation_Date,Wave2_Activation_Elapsed_Days,Wave2_Activation_Model_Time,Wave2_Activation_Date,Wave3_Activation_Elapsed_Days,Wave3_Activation_Model_Time,Wave3_Activation_Date
+Early Intervention,5,16.6383967095044,12.9547940767998,30.1387589500703,6.8216371016431,0.1,11,12,2020-03-21 00:00:00,11.5,12.5,2020-07-09 12:00:00,11.6,12.6,2020-11-01 14:24:00
+Late Intervention,5,3.9249645103272,4.22305306913119,4.56071769727154,2.99112276457886,0.3,33,34,2020-04-12 00:00:00,34.5,35.5,2020-08-01 12:00:00,34.8,35.8,2020-11-24 19:11:59
+No Change,0,0,0,0,0,NaN,NaN,Inf,,NaN,Inf,,NaN,Inf,

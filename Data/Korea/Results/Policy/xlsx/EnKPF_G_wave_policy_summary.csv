@@ -1,0 +1,4 @@
+Wave,Baseline_Peak,Early_Intervention_Peak,Late_Intervention_Peak,No_Change_Peak,Early_Reduction_Percent,Late_Reduction_Percent,NoChange_Reduction_Percent,Wave_Duration_Days,Wave_Start_Date,Wave_End_Date,Early_Activation_Elapsed_Days,Late_Activation_Elapsed_Days,Early_Activation_Model_Time,Late_Activation_Model_Time,Early_Activation_Date,Late_Activation_Date,Early_BetaF_Change_Percent,Late_BetaF_Change_Percent
+1,2929.73638428796,2866.07860585253,2929.73638428796,2929.73638428796,2.17281591534382,0,0,177,16-Feb-2020,11-Aug-2020,17.7,53.1,18.7,54.1,2020-03-04 16:48:00,2020-04-09 02:24:00,5,5
+2,3214.10614548804,2953.92356998137,3214.10614548804,3214.10614548804,8.09502125099113,0,0,92,11-Aug-2020,11-Nov-2020,9.2,27.6,10.2,28.6,2020-08-20 04:48:00,2020-09-07 14:24:00,5,5
+3,9451.73024823793,5436.91414132722,6205.67354476113,9451.73024823793,42.4770491906409,34.3435182577493,0,95,11-Nov-2020,14-Feb-2021,9.5,28.5,10.5,29.5,2020-11-20 12:00:00,2020-12-09 12:00:00,5,5

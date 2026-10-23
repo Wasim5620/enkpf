@@ -1,0 +1,42 @@
+{
+  "publication_policy": {
+    "Original_source": "Python_2026/publication_policy.py",
+    "Original_SHA256": "71f0e43f4b2781d4d4046cbd79222b7a888a444d1c5dca0c38849d6d409550b2",
+    "Embedded_SHA256": "71f0e43f4b2781d4d4046cbd79222b7a888a444d1c5dca0c38849d6d409550b2"
+  },
+  "publication_styles": {
+    "Original_source": "Python_2026/publication_styles.py",
+    "Original_SHA256": "19e8aef3e3899971e4ae9c3af9a216e20e01283aea1704edeed05d6ab83e0554",
+    "Embedded_SHA256": "19e8aef3e3899971e4ae9c3af9a216e20e01283aea1704edeed05d6ab83e0554"
+  },
+  "manuscript_publication": {
+    "Original_source": "Python_2026/manuscript_publication.py",
+    "Original_SHA256": "2fc3a4d7072e82890b6f1da4b66e37c6727bc6e11c84bdab83f983c0696548b6",
+    "Embedded_SHA256": "82f1f8975ad6b10cc383c2fedf5d5a964471b777d5c08286e2c15ed913232205"
+  },
+  "manuscript_table_exports": {
+    "Original_source": "Python_2026/manuscript_table_exports.py",
+    "Original_SHA256": "03d69abce3e554b3cea8c703eb1a2341958752e32b9808dcd87cb2f47baeeb4e",
+    "Embedded_SHA256": "9630bec44a6dc3873d49703c11e84abd7d099dcf908112c855972b6b2c55067d"
+  },
+  "publication_diagnostics": {
+    "Original_source": "Python_2026/publication_diagnostics.py",
+    "Original_SHA256": "f6506cab3e01f4cac30fab02ae96b03a88db5825b6978f7074d1740d9fc62813",
+    "Embedded_SHA256": "f6506cab3e01f4cac30fab02ae96b03a88db5825b6978f7074d1740d9fc62813"
+  },
+  "amm_publication_outputs": {
+    "Original_source": "Python_2026/amm_publication_outputs.py",
+    "Original_SHA256": "814c893bfe94177b307eb496ac2edcbf56a2a2af77438740b928ab649246e8e9",
+    "Embedded_SHA256": "30cfaeab5b2917c4d4128141acc64904193cc1e3ced2cbc2e1ac7ac414a93048"
+  },
+  "focused_peak_outputs": {
+    "Original_source": "AMM_Validation/editorial/focused_peak_outputs.py",
+    "Original_SHA256": "97d3604bd9e84d83375e03831c21a58f8f16295c26b25d7f89deb20121a98b5e",
+    "Embedded_SHA256": "5fe80b92f33808d353cf8f151d79a722003c4805367377b29be4565b10c40c28"
+  },
+  "residual_forecast_figures": {
+    "Original_source": "AMM_Validation/editorial/residual_forecast_figures.py",
+    "Original_SHA256": "2cb58cbbfa71df4ae27931fd0ea7641ae398ab9b38bea4859b61608470632bb7",
+    "Embedded_SHA256": "ec99693ed8ff37f149cf6b22e7007a159688000f3baa6e2ee7a6a2d2c5a8e73d"
+  }
+}

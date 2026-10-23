@@ -1,0 +1,35 @@
+{
+  "Country": "South Korea",
+  "Parameters": [
+    "beta",
+    "beta_f",
+    "mu_f",
+    "I0"
+  ],
+  "Initial_parameters": [
+    0.8354,
+    0.9435,
+    1.2096,
+    22.0
+  ],
+  "Population": 52000000.0,
+  "Wave_rows_1_based_inclusive": [
+    [
+      27,
+      204
+    ],
+    [
+      204,
+      296
+    ],
+    [
+      296,
+      391
+    ]
+  ],
+  "Observation_file": "Coviddata-korea1.xlsx",
+  "Recovered_column": "Rec_Acc",
+  "Original_script_name": "mainKorea_all_hybrid_LSM.m",
+  "Original_script_SHA256": "7788f28e5d0251fd9c427e12b014ca955a53c354f8a47e5b71e971cba9e1f442",
+  "Note": "Initialization metadata extracted from the original script; values are checked against saved-run MAT metadata when the notebook runs. No MATLAB code is required or included."
+}

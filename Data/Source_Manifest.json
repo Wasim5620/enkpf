@@ -1,0 +1,1032 @@
+{
+  "Created_UTC": "2026-10-21T06:48:03.548998+00:00",
+  "Sources": [
+    {
+      "Original_source": "Data/Coviddata-korea1.xlsx",
+      "Original_SHA256": "22aa5217011d4aadcc248db6114f90bef29ae9c3476b8d2b5f870c8d92cd5b76",
+      "Packaged_path": "Data/Coviddata-korea1.xlsx",
+      "Packaged_SHA256": "22aa5217011d4aadcc248db6114f90bef29ae9c3476b8d2b5f870c8d92cd5b76",
+      "Original_bytes": 78321,
+      "Packaged_bytes": 78321,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Korea/Results/Results_EnKPF_LSM/Korea_complete_results.xlsx",
+      "Original_SHA256": "56b71afbb1b0fc8a573c4e29526948dbd04b74fd03766cecd55f5f5b91e2e8f7",
+      "Packaged_path": "Data/Korea/Results/Results_EnKPF_LSM/Korea_complete_results.xlsx",
+      "Packaged_SHA256": "56b71afbb1b0fc8a573c4e29526948dbd04b74fd03766cecd55f5f5b91e2e8f7",
+      "Original_bytes": 123209,
+      "Packaged_bytes": 123209,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Korea/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Original_SHA256": "6ec87dcd0b3e32fd3f5f427265857b3bcadbd6cac7513d543561422172ed44c7",
+      "Packaged_path": "Data/Korea/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Packaged_SHA256": "6ec87dcd0b3e32fd3f5f427265857b3bcadbd6cac7513d543561422172ed44c7",
+      "Original_bytes": 978,
+      "Packaged_bytes": 978,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Korea/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Original_SHA256": "f46726336c7156db82d26bc161719119d3ea37c104308146c65467f63737a6ff",
+      "Packaged_path": "Data/Korea/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Packaged_SHA256": "f46726336c7156db82d26bc161719119d3ea37c104308146c65467f63737a6ff",
+      "Original_bytes": 249,
+      "Packaged_bytes": 249,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Korea/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Original_SHA256": "0d421f536ccfbe84cae817acc4c18bea8c668996f9e994243d4cce8ec28420e0",
+      "Packaged_path": "Data/Korea/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Packaged_SHA256": "0d421f536ccfbe84cae817acc4c18bea8c668996f9e994243d4cce8ec28420e0",
+      "Original_bytes": 781,
+      "Packaged_bytes": 781,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/EnKPF_Publication_Package/Data/Korea/initialization_metadata.json",
+      "Original_SHA256": "4f179547475dd6d9c8ed6fa2448097b60a46bd84cf62c87538cb1acca8647140",
+      "Packaged_path": "Data/Korea/initialization_metadata.json",
+      "Packaged_SHA256": "4f179547475dd6d9c8ed6fa2448097b60a46bd84cf62c87538cb1acca8647140",
+      "Original_bytes": 799,
+      "Packaged_bytes": 799,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Korea/Results/Results_EnKPF_LSM/Korea_EnKPF_G_workspace.mat",
+      "Original_SHA256": "dc4bf9f7769266c8cf759da3b2681e597e6d680110156f8d627ca7d3ba635cbd",
+      "Packaged_path": "Data/Korea/Results/Results_EnKPF_LSM/Korea_EnKPF_G_workspace.mat",
+      "Packaged_SHA256": "9d6fda474857a714e5880d95c163bcdafff3d9218f495248b44ba7ecc05dd827",
+      "Original_bytes": 8716494,
+      "Packaged_bytes": 40668,
+      "Extraction": "Final EnKF analysis ensemble of each wave, params1 and N_pop; numerical values unchanged. No model run."
+    },
+    {
+      "Original_source": "Data/covid_data-japan1.xlsx",
+      "Original_SHA256": "c62ac6129b8f6e7a61f2f32779b1ed8df1685323650780fcdfaadcebb92bfd5d",
+      "Packaged_path": "Data/covid_data-japan1.xlsx",
+      "Packaged_SHA256": "c62ac6129b8f6e7a61f2f32779b1ed8df1685323650780fcdfaadcebb92bfd5d",
+      "Original_bytes": 49240,
+      "Packaged_bytes": 49240,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Japan/Results/Results_EnKPF_LSM/Jap_complete_results.xlsx",
+      "Original_SHA256": "92227ec9a343045964245c920f89d04c2752f046ee8fca7a06311226fd8aab7a",
+      "Packaged_path": "Data/Japan/Results/Results_EnKPF_LSM/Jap_complete_results.xlsx",
+      "Packaged_SHA256": "92227ec9a343045964245c920f89d04c2752f046ee8fca7a06311226fd8aab7a",
+      "Original_bytes": 110077,
+      "Packaged_bytes": 110077,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Japan/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Original_SHA256": "9f2f43d9d3933f88133ae4e5ffb61c06a4800ff7290df2ca4fd3473feb2644f5",
+      "Packaged_path": "Data/Japan/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Packaged_SHA256": "9f2f43d9d3933f88133ae4e5ffb61c06a4800ff7290df2ca4fd3473feb2644f5",
+      "Original_bytes": 1001,
+      "Packaged_bytes": 1001,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Japan/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Original_SHA256": "d33070ebf0a5ce37973c623b8e3a6f0ef9be4b0ac58c533e5188088bc913661d",
+      "Packaged_path": "Data/Japan/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Packaged_SHA256": "d33070ebf0a5ce37973c623b8e3a6f0ef9be4b0ac58c533e5188088bc913661d",
+      "Original_bytes": 253,
+      "Packaged_bytes": 253,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Japan/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Original_SHA256": "f892c96f696a842842588ec7790468a050e8ed5c5143a80507ea78c6717ebc4e",
+      "Packaged_path": "Data/Japan/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Packaged_SHA256": "f892c96f696a842842588ec7790468a050e8ed5c5143a80507ea78c6717ebc4e",
+      "Original_bytes": 803,
+      "Packaged_bytes": 803,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/EnKPF_Publication_Package/Data/Japan/initialization_metadata.json",
+      "Original_SHA256": "95d54325b2e29b1ce1598e02a5089ccd67bd30ad580405f8668b3d715077370f",
+      "Packaged_path": "Data/Japan/initialization_metadata.json",
+      "Packaged_SHA256": "95d54325b2e29b1ce1598e02a5089ccd67bd30ad580405f8668b3d715077370f",
+      "Original_bytes": 786,
+      "Packaged_bytes": 786,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Japan/Results/Results_EnKPF_LSM/Jap_EnKPF_G_workspace.mat",
+      "Original_SHA256": "3a5846142cdcaffd6f8fa0c7290ef841071053deed454e434856a463fec41acd",
+      "Packaged_path": "Data/Japan/Results/Results_EnKPF_LSM/Jap_EnKPF_G_workspace.mat",
+      "Packaged_SHA256": "c72b63b7e120d37e310ae96531b5eb81f1dafee8f112820ab868b332d6dd8b69",
+      "Original_bytes": 8278347,
+      "Packaged_bytes": 40590,
+      "Extraction": "Final EnKF analysis ensemble of each wave, params1 and N_pop; numerical values unchanged. No model run."
+    },
+    {
+      "Original_source": "Data/covid_data-pak1.xlsx",
+      "Original_SHA256": "62f16d0f19e27e59c231dd69d7e5a9c40e053d436f1fa2b280671485c801c2e4",
+      "Packaged_path": "Data/covid_data-pak1.xlsx",
+      "Packaged_SHA256": "62f16d0f19e27e59c231dd69d7e5a9c40e053d436f1fa2b280671485c801c2e4",
+      "Original_bytes": 59968,
+      "Packaged_bytes": 59968,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Pak/Results/Results_EnKPF_LSM/Pak_complete_results.xlsx",
+      "Original_SHA256": "119cd735073793b00b2526d78c97f27a65e118eca54f2af5ee757f81fa721330",
+      "Packaged_path": "Data/Pak/Results/Results_EnKPF_LSM/Pak_complete_results.xlsx",
+      "Packaged_SHA256": "119cd735073793b00b2526d78c97f27a65e118eca54f2af5ee757f81fa721330",
+      "Original_bytes": 146215,
+      "Packaged_bytes": 146215,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Pak/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Original_SHA256": "84ef3ea46426d41df56d861f9207fe3e20cf39ddf635426931061de6c859e892",
+      "Packaged_path": "Data/Pak/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv",
+      "Packaged_SHA256": "84ef3ea46426d41df56d861f9207fe3e20cf39ddf635426931061de6c859e892",
+      "Original_bytes": 1003,
+      "Packaged_bytes": 1003,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Pak/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Original_SHA256": "50a18b3c49d3337f1da473bbaf5a41a5996dd12887047a56c5d83a9ee533d3f2",
+      "Packaged_path": "Data/Pak/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv",
+      "Packaged_SHA256": "50a18b3c49d3337f1da473bbaf5a41a5996dd12887047a56c5d83a9ee533d3f2",
+      "Original_bytes": 249,
+      "Packaged_bytes": 249,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Pak/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Original_SHA256": "cf1f6f58ce9e3efc0f550d8123c2bf318e8931da5fee0f7bb9b0cc5ffb9ca0db",
+      "Packaged_path": "Data/Pak/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv",
+      "Packaged_SHA256": "cf1f6f58ce9e3efc0f550d8123c2bf318e8931da5fee0f7bb9b0cc5ffb9ca0db",
+      "Original_bytes": 805,
+      "Packaged_bytes": 805,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/EnKPF_Publication_Package/Data/Pak/initialization_metadata.json",
+      "Original_SHA256": "99e80867dd4b0a8721f95bdeac69fa05b3e4cd78682c97bee9d32acb4a51f097",
+      "Packaged_path": "Data/Pak/initialization_metadata.json",
+      "Packaged_SHA256": "99e80867dd4b0a8721f95bdeac69fa05b3e4cd78682c97bee9d32acb4a51f097",
+      "Original_bytes": 790,
+      "Packaged_bytes": 790,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Pak/Results/Results_EnKPF_LSM/Pak_EnKPF_G_workspace.mat",
+      "Original_SHA256": "991c837717a56d49d0e8c7e593a640cc4e44f41c10abc68122cda4a953f6e58e",
+      "Packaged_path": "Data/Pak/Results/Results_EnKPF_LSM/Pak_EnKPF_G_workspace.mat",
+      "Packaged_SHA256": "95fa823ebf04f2535d2d939625c1a375a778f2cfb481e85ace83bb8d1e4bf8ec",
+      "Original_bytes": 11157428,
+      "Packaged_bytes": 40464,
+      "Extraction": "Final EnKF analysis ensemble of each wave, params1 and N_pop; numerical values unchanged. No model run."
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/script_reproduction/Run_Manifest.csv",
+      "Original_SHA256": "eae079e9b61e65a8480ee609bacaba66115543bc7ea54c29782b5babf04c0b6f",
+      "Packaged_path": "Data/NativeForecast/script_reproduction/Run_Manifest.csv",
+      "Packaged_SHA256": "eae079e9b61e65a8480ee609bacaba66115543bc7ea54c29782b5babf04c0b6f",
+      "Original_bytes": 723,
+      "Packaged_bytes": 723,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/script_reproduction/Fit_Diagnostics.csv",
+      "Original_SHA256": "b46946107480a95def1f9bca920fa2975522024823a2a932ab066559419ab269",
+      "Packaged_path": "Data/NativeForecast/script_reproduction/Fit_Diagnostics.csv",
+      "Packaged_SHA256": "b46946107480a95def1f9bca920fa2975522024823a2a932ab066559419ab269",
+      "Original_bytes": 1428,
+      "Packaged_bytes": 1428,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Metrics.csv",
+      "Original_SHA256": "b2bee16814b6057107ee0864ed93d9daf9176554a55ba15cda905d6724047153",
+      "Packaged_path": "Data/NativeForecast/script_reproduction/Forecast_Metrics.csv",
+      "Packaged_SHA256": "b2bee16814b6057107ee0864ed93d9daf9176554a55ba15cda905d6724047153",
+      "Original_bytes": 51502,
+      "Packaged_bytes": 51502,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Predictions.csv",
+      "Original_SHA256": "115ac2e188e0196918e08f0fcfcb47a895b44d3c96e3b2f2980d92ec9ade0ff7",
+      "Packaged_path": "Data/NativeForecast/script_reproduction/Forecast_Predictions.csv",
+      "Packaged_SHA256": "115ac2e188e0196918e08f0fcfcb47a895b44d3c96e3b2f2980d92ec9ade0ff7",
+      "Original_bytes": 1113372,
+      "Packaged_bytes": 1113372,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/peak_stability/Run_Manifest.csv",
+      "Original_SHA256": "006390d30d8bf40273fb0dc4d1fd681624d93cfb7a3302edb941c18917c37587",
+      "Packaged_path": "Data/NativeForecast/peak_stability/Run_Manifest.csv",
+      "Packaged_SHA256": "006390d30d8bf40273fb0dc4d1fd681624d93cfb7a3302edb941c18917c37587",
+      "Original_bytes": 3163,
+      "Packaged_bytes": 3163,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/peak_stability/Fit_Diagnostics.csv",
+      "Original_SHA256": "8fe12385eb1794ec41fe9081346c7fc5ac2211aa0ee0d5d658cbad19297b8085",
+      "Packaged_path": "Data/NativeForecast/peak_stability/Fit_Diagnostics.csv",
+      "Packaged_SHA256": "8fe12385eb1794ec41fe9081346c7fc5ac2211aa0ee0d5d658cbad19297b8085",
+      "Original_bytes": 5816,
+      "Packaged_bytes": 5816,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Metrics.csv",
+      "Original_SHA256": "dd24f2326b1401da1ae33c291515a4b9cee978fe65b12c82f785758784cc545b",
+      "Packaged_path": "Data/NativeForecast/peak_stability/Forecast_Metrics.csv",
+      "Packaged_SHA256": "dd24f2326b1401da1ae33c291515a4b9cee978fe65b12c82f785758784cc545b",
+      "Original_bytes": 257453,
+      "Packaged_bytes": 257453,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Predictions.csv",
+      "Original_SHA256": "15a159938461c86575f56861618b30767a45372eacfb4d303edea8b33b77aebc",
+      "Packaged_path": "Data/NativeForecast/peak_stability/Forecast_Predictions.csv",
+      "Packaged_SHA256": "15a159938461c86575f56861618b30767a45372eacfb4d303edea8b33b77aebc",
+      "Original_bytes": 5624250,
+      "Packaged_bytes": 5624250,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "MATLAB_Forecast_Validation/results/Native_Result_Review.json",
+      "Original_SHA256": "d44041186ae050c8c8cd42086b2a0a17440394aecfb6923a0161052aab5b5df3",
+      "Packaged_path": "Data/NativeForecast/Native_Result_Review.json",
+      "Packaged_SHA256": "d44041186ae050c8c8cd42086b2a0a17440394aecfb6923a0161052aab5b5df3",
+      "Original_bytes": 4997,
+      "Packaged_bytes": 4997,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/results/summary/AMM_Policy_Table_4.csv",
+      "Original_SHA256": "28f89c01fb4212a510817521b94b2812e1d6b31d2fd18e84930a6197956be217",
+      "Packaged_path": "Data/Validation/summary/AMM_Policy_Table_4.csv",
+      "Packaged_SHA256": "28f89c01fb4212a510817521b94b2812e1d6b31d2fd18e84930a6197956be217",
+      "Original_bytes": 191,
+      "Packaged_bytes": 191,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/results/summary/Synthetic_Recovery_Compact.csv",
+      "Original_SHA256": "3057aa872b7482ae99bdc1f4435798fcca718df4c57b585932670a042bbc97b3",
+      "Packaged_path": "Data/Validation/summary/Synthetic_Recovery_Compact.csv",
+      "Packaged_SHA256": "3057aa872b7482ae99bdc1f4435798fcca718df4c57b585932670a042bbc97b3",
+      "Original_bytes": 4177,
+      "Packaged_bytes": 4177,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/results/synthetic_recovery/Synthetic_Unregularized_Information.csv",
+      "Original_SHA256": "e17ed41b09467338378e90bd2e5e53f1596245a08b9f8c6cdb2114d117842c11",
+      "Packaged_path": "Data/Validation/synthetic_recovery/Synthetic_Unregularized_Information.csv",
+      "Packaged_SHA256": "e17ed41b09467338378e90bd2e5e53f1596245a08b9f8c6cdb2114d117842c11",
+      "Original_bytes": 1751,
+      "Packaged_bytes": 1751,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Main_Table_1.csv",
+      "Original_SHA256": "d7efe84ed9f3248c2f34855ea463a65774f77025f94f52265880231a92ee7271",
+      "Packaged_path": "Results/Tables/Main_Table_1.csv",
+      "Packaged_SHA256": "af6d00729a616da0143a09d6d4bf7de1a7e14123ede103a2abe9d0917cb94adf",
+      "Original_bytes": 270,
+      "Packaged_bytes": 264,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "d7efe84ed9f3248c2f34855ea463a65774f77025f94f52265880231a92ee7271"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Main_Table_2.csv",
+      "Original_SHA256": "1946d18bd1b3f5e06c8394b70b18d07e8e485208f4e922512a77581cca7fdee0",
+      "Packaged_path": "Results/Tables/Main_Table_2.csv",
+      "Packaged_SHA256": "163e6e2aa2f9fbb2f1efe8b5db0c8daee0a712f6b87f91e203eace2d491bf711",
+      "Original_bytes": 518,
+      "Packaged_bytes": 500,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "1946d18bd1b3f5e06c8394b70b18d07e8e485208f4e922512a77581cca7fdee0"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S1.csv",
+      "Original_SHA256": "3b06c3e0e719e87155559aff798801309d6c0cde1ca378aa5c8ef1ae6eff71dd",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S1.csv",
+      "Packaged_SHA256": "d1db7413f670d5d3020e96eb8248525c0a20e3d46923eb3be61ae969e816045c",
+      "Original_bytes": 139,
+      "Packaged_bytes": 133,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "3b06c3e0e719e87155559aff798801309d6c0cde1ca378aa5c8ef1ae6eff71dd"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S2.csv",
+      "Original_SHA256": "480bc765c517d21089287bddb66787af49b06288a4a17c2ca505c5d2282ba124",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S2.csv",
+      "Packaged_SHA256": "0ad4c28d0283a89d77f337b840aad21e5bf3202446740b5d77883c3aaf0e23b1",
+      "Original_bytes": 582,
+      "Packaged_bytes": 679,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "480bc765c517d21089287bddb66787af49b06288a4a17c2ca505c5d2282ba124"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S3.csv",
+      "Original_SHA256": "6dc2e1c220b1a4a09c08c951c767bb1e4b9989a4568bd48b34de1a2f78b25a9e",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S3.csv",
+      "Packaged_SHA256": "ade0b751d2047fd7fc239b4d8949fb6a78f72c0b3a1f918cc4895af51458511e",
+      "Original_bytes": 270,
+      "Packaged_bytes": 264,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "6dc2e1c220b1a4a09c08c951c767bb1e4b9989a4568bd48b34de1a2f78b25a9e"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S4.csv",
+      "Original_SHA256": "e8171a7e94461fb2464616d86bff63a2aa4932a4a43fe57f144cc96df28dc35b",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S4.csv",
+      "Packaged_SHA256": "807a3c9524139df08d5dd1a25016f5d0eb93e1f9fcce2d794c5f989e94a617dc",
+      "Original_bytes": 78,
+      "Packaged_bytes": 72,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "e8171a7e94461fb2464616d86bff63a2aa4932a4a43fe57f144cc96df28dc35b"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S5.csv",
+      "Original_SHA256": "dba9cf7cdb2266abf1f095d6f4347f945b13e7aa0f1490481fba71b9795ca0fe",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S5.csv",
+      "Packaged_SHA256": "6125ef43be84bc3bd7d3aea81e17e42a48724a987927d73e09e0cd1f72ac48db",
+      "Original_bytes": 599,
+      "Packaged_bytes": 580,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "dba9cf7cdb2266abf1f095d6f4347f945b13e7aa0f1490481fba71b9795ca0fe"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S6.csv",
+      "Original_SHA256": "6b0f809098924cc50bd9596c3891b6e61396c4e9450d95957b547067169e6ac5",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S6.csv",
+      "Packaged_SHA256": "36982bfd9822d201fbbc05d1b4bec36c8360efcf1197ab2193cfb9030be65cc9",
+      "Original_bytes": 590,
+      "Packaged_bytes": 566,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "6b0f809098924cc50bd9596c3891b6e61396c4e9450d95957b547067169e6ac5"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S7.csv",
+      "Original_SHA256": "05d53fb013a20744e16739a30b7426cd5fd4318559db636e0ca0df83e08084f6",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S7.csv",
+      "Packaged_SHA256": "9545c0eff5f6802827e79ae1b191ad8436957d3f04d467cb22b5b96f73b84955",
+      "Original_bytes": 592,
+      "Packaged_bytes": 568,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "05d53fb013a20744e16739a30b7426cd5fd4318559db636e0ca0df83e08084f6"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S8.csv",
+      "Original_SHA256": "c05e53335d66260ef05909671e3b98b39cac4e447b2ff434cf07a0641733271d",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S8.csv",
+      "Packaged_SHA256": "9d27de045b17b894523f37e0d18c1e99934a1c23909e5ccabe820bd053b138cb",
+      "Original_bytes": 789,
+      "Packaged_bytes": 768,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "c05e53335d66260ef05909671e3b98b39cac4e447b2ff434cf07a0641733271d"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S9.csv",
+      "Original_SHA256": "9610565ab45c836eb613bfb67a074cc1601ddc54c657c5def7ec852aeb51899a",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S9.csv",
+      "Packaged_SHA256": "5d772c0705013d2e7a113ee2dc14af18381ae635552ab32ba49d89d35ac60f5f",
+      "Original_bytes": 760,
+      "Packaged_bytes": 742,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "9610565ab45c836eb613bfb67a074cc1601ddc54c657c5def7ec852aeb51899a"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S10.csv",
+      "Original_SHA256": "404dc758eaacf716a7dd5d71786dc698a7c6609f52857012f7b6ecd9d07d4e6d",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S10.csv",
+      "Packaged_SHA256": "7c8a1a72766219fc517497d690901b423f2d7300e8d90328bd4cdbc250c74103",
+      "Original_bytes": 585,
+      "Packaged_bytes": 567,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "404dc758eaacf716a7dd5d71786dc698a7c6609f52857012f7b6ecd9d07d4e6d"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S11.csv",
+      "Original_SHA256": "04b9f9ac366ca620afb47af64c8780c518a14e6e52fe0eba2a21cfd5785f51e5",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S11.csv",
+      "Packaged_SHA256": "42f0b38c7d7ba363967905ed8fdfed8336e15593f5759b2944cb92bb502efcf1",
+      "Original_bytes": 208,
+      "Packaged_bytes": 202,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "04b9f9ac366ca620afb47af64c8780c518a14e6e52fe0eba2a21cfd5785f51e5"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S12.csv",
+      "Original_SHA256": "fafff695cb8f27abf3df1ef38a1516bc07c45aa03f2a08115db46164d2430ea4",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S12.csv",
+      "Packaged_SHA256": "679b2f59185ba5910cdc0d2dbdd4d5f0c27326d4aea49830089f35b1842f7d61",
+      "Original_bytes": 547,
+      "Packaged_bytes": 535,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "fafff695cb8f27abf3df1ef38a1516bc07c45aa03f2a08115db46164d2430ea4"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S13.csv",
+      "Original_SHA256": "51cbaeb25392b4dce52ac0e9114010fb6dadd088d9113ef1c3d4bcec479f086c",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S13.csv",
+      "Packaged_SHA256": "28c6743e7d9c24d504fd18529cf900678b268403fdc691cd7b0e3b2384de1c85",
+      "Original_bytes": 462,
+      "Packaged_bytes": 450,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "51cbaeb25392b4dce52ac0e9114010fb6dadd088d9113ef1c3d4bcec479f086c"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S14.csv",
+      "Original_SHA256": "be3286eda50b92fd4472ad1706afb02b6c8ba230dc5144d9c1e19b418173efcb",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S14.csv",
+      "Packaged_SHA256": "b36fda4bb33ba5fc04ec12a28dde977d8f368f8248faa951deb0a7ab312b72f2",
+      "Original_bytes": 1090,
+      "Packaged_bytes": 1185,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "be3286eda50b92fd4472ad1706afb02b6c8ba230dc5144d9c1e19b418173efcb"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S15.csv",
+      "Original_SHA256": "3ecd830e67b5f7e933afbff1b29e1c7f32e420eebfb1de9f0e51f34e3c787403",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S15.csv",
+      "Packaged_SHA256": "9e2f9d6650624efe7a9757a54cad6076f630f1dbfa8d92c923b68b7e2e19c89d",
+      "Original_bytes": 194,
+      "Packaged_bytes": 191,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "3ecd830e67b5f7e933afbff1b29e1c7f32e420eebfb1de9f0e51f34e3c787403"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Supplementary_Table_S16.csv",
+      "Original_SHA256": "cc6fe5833ef9142c6805503bb2903242147b70eea96cefd490f606a393e67f36",
+      "Packaged_path": "Results/Tables/Supplementary_Table_S16.csv",
+      "Packaged_SHA256": "faa909668eb2126ec3e04265fefe3443963730feeb861b35976d39937dfef095",
+      "Original_bytes": 380,
+      "Packaged_bytes": 362,
+      "Extraction": "Byte-for-byte copy Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "cc6fe5833ef9142c6805503bb2903242147b70eea96cefd490f606a393e67f36"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/Manuscript_Supplementary_Tables_Index.csv",
+      "Original_SHA256": "d20b6ea19eb0d2d50a6c939aeec16c6804b17b0899d9051e140a6c9cae807292",
+      "Packaged_path": "Results/Tables/Manuscript_Supplementary_Tables_Index.csv",
+      "Packaged_SHA256": "abc213656d46b57f27669443621f62e7844e71fd68e9895a35b9a731ab4801e8",
+      "Original_bytes": 15127,
+      "Packaged_bytes": 13417,
+      "Extraction": "Saved CSV; path references made package-relative. Numeric text unchanged. Current publication-table assembly/export then updates this output; original-source and initial-copy hashes retained.",
+      "Initial_packaged_copy_SHA256": "d84684f572e9981b58a3e2b4cc4fc1e6dcdb42bf3bc341b79c813a90bf55edcd"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/current_hybrid_EnKF_JB_endpoints.csv",
+      "Original_SHA256": "8dc7e55754479dab48eca828fa796241b56ff9d7c42716f5f6ecaf725f29d70f",
+      "Packaged_path": "Results/Tables/current_hybrid_EnKF_JB_endpoints.csv",
+      "Packaged_SHA256": "8dc7e55754479dab48eca828fa796241b56ff9d7c42716f5f6ecaf725f29d70f",
+      "Original_bytes": 7852,
+      "Packaged_bytes": 7852,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/current_hybrid_EnKF_Mardia_endpoints.csv",
+      "Original_SHA256": "d67836459da08e8912d64f7416c3d6356f9267401644ca1e1ed845b7e9dd390d",
+      "Packaged_path": "Results/Tables/current_hybrid_EnKF_Mardia_endpoints.csv",
+      "Packaged_SHA256": "d67836459da08e8912d64f7416c3d6356f9267401644ca1e1ed845b7e9dd390d",
+      "Original_bytes": 2353,
+      "Packaged_bytes": 2353,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/global_LHS_PRCC.csv",
+      "Original_SHA256": "cda4f358677da13b42041fdd1d880ae410fe76b7cbd212469e279c584be65ae9",
+      "Packaged_path": "Results/Tables/global_LHS_PRCC.csv",
+      "Packaged_SHA256": "cda4f358677da13b42041fdd1d880ae410fe76b7cbd212469e279c584be65ae9",
+      "Original_bytes": 543,
+      "Packaged_bytes": 543,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/global_LHS_PRCC_parameter_bounds.csv",
+      "Original_SHA256": "a298d6ab8610b2cddb2cf9c5e2befd548d30c7b145749d1f445e9df38e7d453b",
+      "Packaged_path": "Results/Tables/global_LHS_PRCC_parameter_bounds.csv",
+      "Packaged_SHA256": "a298d6ab8610b2cddb2cf9c5e2befd548d30c7b145749d1f445e9df38e7d453b",
+      "Original_bytes": 205,
+      "Packaged_bytes": 205,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/global_LHS_PRCC_wave_windows.csv",
+      "Original_SHA256": "60ca4c4014a415cf664d7f5e2e2a1653811d2b4d61342e44f769cca03ca08187",
+      "Packaged_path": "Results/Tables/global_LHS_PRCC_wave_windows.csv",
+      "Packaged_SHA256": "60ca4c4014a415cf664d7f5e2e2a1653811d2b4d61342e44f769cca03ca08187",
+      "Original_bytes": 1720,
+      "Packaged_bytes": 1720,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Tables/global_LHS_PRCC_diagnostics.csv",
+      "Original_SHA256": "22d5f7a9b8966075c8c5f9a4d02c2f716bb434365cbedc5e61bb172d7967fec2",
+      "Packaged_path": "Results/Tables/global_LHS_PRCC_diagnostics.csv",
+      "Packaged_SHA256": "22d5f7a9b8966075c8c5f9a4d02c2f716bb434365cbedc5e61bb172d7967fec2",
+      "Original_bytes": 1293,
+      "Packaged_bytes": 1293,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Combined_3x2_Panel_Fitting.pdf",
+      "Original_SHA256": "72923c15ed0e02d86646d38eb54df3532acace3b8f509f97edf1d356cc90afec",
+      "Packaged_path": "Figures/PNG/Combined_3x2_Panel_Fitting.pdf",
+      "Packaged_SHA256": "72923c15ed0e02d86646d38eb54df3532acace3b8f509f97edf1d356cc90afec",
+      "Original_bytes": 137988,
+      "Packaged_bytes": 137988,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Combined_3x2_Panel_Fitting.png",
+      "Original_SHA256": "5ef2d43ce3953c1a5c8ef4e82d34d4eea4a2d0428dfc21eaf2d483f8480d6c39",
+      "Packaged_path": "Figures/PNG/Combined_3x2_Panel_Fitting.png",
+      "Packaged_SHA256": "5ef2d43ce3953c1a5c8ef4e82d34d4eea4a2d0428dfc21eaf2d483f8480d6c39",
+      "Original_bytes": 1205000,
+      "Packaged_bytes": 1205000,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Combined_3x2_Panel_Fitting.tif",
+      "Original_SHA256": "06a75288f112560133d04817c155280d0bcab0230a13b5573a79d49754944a91",
+      "Packaged_path": "Figures/TIFF/Combined_3x2_Panel_Fitting.tif",
+      "Packaged_SHA256": "06a75288f112560133d04817c155280d0bcab0230a13b5573a79d49754944a91",
+      "Original_bytes": 1556848,
+      "Packaged_bytes": 1556848,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Restored_EnKF_EnKPF_Forecasts_Main.pdf",
+      "Original_SHA256": "de4e08cab5a6e40d8df2d5dd4fc9c455c1f290397dfbbc0e0e89e7f4c1403fb7",
+      "Packaged_path": "Figures/PNG/Restored_EnKF_EnKPF_Forecasts_Main.pdf",
+      "Packaged_SHA256": "de4e08cab5a6e40d8df2d5dd4fc9c455c1f290397dfbbc0e0e89e7f4c1403fb7",
+      "Original_bytes": 70847,
+      "Packaged_bytes": 70847,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Restored_EnKF_EnKPF_Forecasts_Main.png",
+      "Original_SHA256": "7d2a6a4cf6611ea949311d19f4ea9edca7e6b408746520c0bab5ac3d384b9364",
+      "Packaged_path": "Figures/PNG/Restored_EnKF_EnKPF_Forecasts_Main.png",
+      "Packaged_SHA256": "7d2a6a4cf6611ea949311d19f4ea9edca7e6b408746520c0bab5ac3d384b9364",
+      "Original_bytes": 899210,
+      "Packaged_bytes": 899210,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Restored_EnKF_EnKPF_Forecasts_Main.tif",
+      "Original_SHA256": "5f2f0bbcd56394b09d5841a76b9b7fd8dcdca3392d24d90f6f4b5016b95d1dbd",
+      "Packaged_path": "Figures/TIFF/Restored_EnKF_EnKPF_Forecasts_Main.tif",
+      "Packaged_SHA256": "5f2f0bbcd56394b09d5841a76b9b7fd8dcdca3392d24d90f6f4b5016b95d1dbd",
+      "Original_bytes": 1362884,
+      "Packaged_bytes": 1362884,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/AMM_Synthetic_Parameter_Recovery.pdf",
+      "Original_SHA256": "1580b0257443a74ced7cd78893cef3c8f2de44f48a21ff7474dd3043e11cd4b4",
+      "Packaged_path": "Figures/PNG/AMM_Synthetic_Parameter_Recovery.pdf",
+      "Packaged_SHA256": "1580b0257443a74ced7cd78893cef3c8f2de44f48a21ff7474dd3043e11cd4b4",
+      "Original_bytes": 45195,
+      "Packaged_bytes": 45195,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/AMM_Synthetic_Parameter_Recovery.png",
+      "Original_SHA256": "eaa050938833c792cfcbe06ef6d6f89b86e6f516c3a4a7010bbf7da94f603f40",
+      "Packaged_path": "Figures/PNG/AMM_Synthetic_Parameter_Recovery.png",
+      "Packaged_SHA256": "eaa050938833c792cfcbe06ef6d6f89b86e6f516c3a4a7010bbf7da94f603f40",
+      "Original_bytes": 221223,
+      "Packaged_bytes": 221223,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/AMM_Synthetic_Parameter_Recovery.tif",
+      "Original_SHA256": "a6172923808121a17c45c8419bd649800c963de312951e1c0a075921aaebd18f",
+      "Packaged_path": "Figures/TIFF/AMM_Synthetic_Parameter_Recovery.tif",
+      "Packaged_SHA256": "a6172923808121a17c45c8419bd649800c963de312951e1c0a075921aaebd18f",
+      "Original_bytes": 278306,
+      "Packaged_bytes": 278306,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/graphical_abstract.pdf",
+      "Original_SHA256": "32276513f3c6e69fc56c9f41357c1db194623da9eb9f7217b84cbf7b2fb1908e",
+      "Packaged_path": "Figures/PNG/graphical_abstract.pdf",
+      "Packaged_SHA256": "32276513f3c6e69fc56c9f41357c1db194623da9eb9f7217b84cbf7b2fb1908e",
+      "Original_bytes": 96233,
+      "Packaged_bytes": 96233,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/graphical_abstract.png",
+      "Original_SHA256": "6035c826c0929f1a8e8f4bf027ef337de6b6b35e982117c71f7226eabc7fc839",
+      "Packaged_path": "Figures/PNG/graphical_abstract.png",
+      "Packaged_SHA256": "6035c826c0929f1a8e8f4bf027ef337de6b6b35e982117c71f7226eabc7fc839",
+      "Original_bytes": 562180,
+      "Packaged_bytes": 562180,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/graphical_abstract.tif",
+      "Original_SHA256": "cce12ed3883816e6187004a448ebc6c6053b35a64dcc69e4ec2083b83769369d",
+      "Packaged_path": "Figures/TIFF/graphical_abstract.tif",
+      "Packaged_SHA256": "cce12ed3883816e6187004a448ebc6c6053b35a64dcc69e4ec2083b83769369d",
+      "Original_bytes": 1061398,
+      "Packaged_bytes": 1061398,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Figure3_EnKPF_Behavioral_Parameter_Trajectories.pdf",
+      "Original_SHA256": "60a0f078c7325411737de1b654dd311faac0dd545cd8ee6beed82d3984e71133",
+      "Packaged_path": "Figures/PNG/Figure3_EnKPF_Behavioral_Parameter_Trajectories.pdf",
+      "Packaged_SHA256": "60a0f078c7325411737de1b654dd311faac0dd545cd8ee6beed82d3984e71133",
+      "Original_bytes": 66245,
+      "Packaged_bytes": 66245,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Figure3_EnKPF_Behavioral_Parameter_Trajectories.png",
+      "Original_SHA256": "37077489526ee1b46b85d6c79d4e9d679c49ff1cb7475b4f2da3c13b151cc4b1",
+      "Packaged_path": "Figures/PNG/Figure3_EnKPF_Behavioral_Parameter_Trajectories.png",
+      "Packaged_SHA256": "37077489526ee1b46b85d6c79d4e9d679c49ff1cb7475b4f2da3c13b151cc4b1",
+      "Original_bytes": 332896,
+      "Packaged_bytes": 332896,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Figure3_EnKPF_Behavioral_Parameter_Trajectories.tif",
+      "Original_SHA256": "69b659cbb098714274a428cf37557cd05c5cd4b6571fadfdcc8d5734ae21d978",
+      "Packaged_path": "Figures/TIFF/Figure3_EnKPF_Behavioral_Parameter_Trajectories.tif",
+      "Packaged_SHA256": "69b659cbb098714274a428cf37557cd05c5cd4b6571fadfdcc8d5734ae21d978",
+      "Original_bytes": 983754,
+      "Packaged_bytes": 983754,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.pdf",
+      "Original_SHA256": "2d0a3bacc477f87d93fb97ce00121c49ccf7f5e3bcf3378ae1d49c1577e74c79",
+      "Packaged_path": "Figures/PNG/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.pdf",
+      "Packaged_SHA256": "2d0a3bacc477f87d93fb97ce00121c49ccf7f5e3bcf3378ae1d49c1577e74c79",
+      "Original_bytes": 101459,
+      "Packaged_bytes": 101459,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.png",
+      "Original_SHA256": "e5fe1753a768d6e1ae06e0d07a3a902574e2c3aee2aa6f9c151ad359cabe6d8b",
+      "Packaged_path": "Figures/PNG/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.png",
+      "Packaged_SHA256": "e5fe1753a768d6e1ae06e0d07a3a902574e2c3aee2aa6f9c151ad359cabe6d8b",
+      "Original_bytes": 1548408,
+      "Packaged_bytes": 1548408,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.tif",
+      "Original_SHA256": "af8a1de34c871236193905a33da8f7b3ec4b07f2c03d4ae199ab1f008b972830",
+      "Packaged_path": "Figures/TIFF/Figure4_Behavioral_Parameters_By_Wave_Country_PercentChange.tif",
+      "Packaged_SHA256": "af8a1de34c871236193905a33da8f7b3ec4b07f2c03d4ae199ab1f008b972830",
+      "Original_bytes": 1862114,
+      "Packaged_bytes": 1862114,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Figure_Global_LHS_PRCC_QR.pdf",
+      "Original_SHA256": "3415eaeda78c64ab72e53115c14996600dab2a5a831411bd07477dfefb1bd529",
+      "Packaged_path": "Figures/PNG/Figure_Global_LHS_PRCC_QR.pdf",
+      "Packaged_SHA256": "3415eaeda78c64ab72e53115c14996600dab2a5a831411bd07477dfefb1bd529",
+      "Original_bytes": 65939,
+      "Packaged_bytes": 65939,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Figure_Global_LHS_PRCC_QR.png",
+      "Original_SHA256": "c54026327e6d824566a926ea786ed5bf12a1b51a070c09b858dce5396fbc1c42",
+      "Packaged_path": "Figures/PNG/Figure_Global_LHS_PRCC_QR.png",
+      "Packaged_SHA256": "c54026327e6d824566a926ea786ed5bf12a1b51a070c09b858dce5396fbc1c42",
+      "Original_bytes": 131602,
+      "Packaged_bytes": 131602,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Figure_Global_LHS_PRCC_QR.tif",
+      "Original_SHA256": "81acb55dcf19e74f6bc21f34993e276fe613d80b7f9ef1fcc77ceab450769dfd",
+      "Packaged_path": "Figures/TIFF/Figure_Global_LHS_PRCC_QR.tif",
+      "Packaged_SHA256": "81acb55dcf19e74f6bc21f34993e276fe613d80b7f9ef1fcc77ceab450769dfd",
+      "Original_bytes": 416356,
+      "Packaged_bytes": 416356,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Supplementary_Figure_1_p_values.pdf",
+      "Original_SHA256": "b3e076565a7239b5165a8325e1e1af6da6f13fd1a66b78f6266ccbc8b7d3ee6c",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_1_p_values.pdf",
+      "Packaged_SHA256": "b3e076565a7239b5165a8325e1e1af6da6f13fd1a66b78f6266ccbc8b7d3ee6c",
+      "Original_bytes": 76201,
+      "Packaged_bytes": 76201,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Supplementary_Figure_1_p_values.png",
+      "Original_SHA256": "181a3e8d8183e7969851a29773ad1840c8a059f62c83ba5a5ef65f36eb16455a",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_1_p_values.png",
+      "Packaged_SHA256": "181a3e8d8183e7969851a29773ad1840c8a059f62c83ba5a5ef65f36eb16455a",
+      "Original_bytes": 371440,
+      "Packaged_bytes": 371440,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Supplementary_Figure_1_p_values.tif",
+      "Original_SHA256": "82428c062183e685c154b3d256076bfe9adb8f0e8571d8a1508154fef16f6d4e",
+      "Packaged_path": "Figures/TIFF/Supplementary_Figure_1_p_values.tif",
+      "Packaged_SHA256": "82428c062183e685c154b3d256076bfe9adb8f0e8571d8a1508154fef16f6d4e",
+      "Original_bytes": 861232,
+      "Packaged_bytes": 861232,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Supplementary_Figure_2_Skewness.pdf",
+      "Original_SHA256": "0862645ac115e0e1a393e0cdebbfc9880aab624463730c28c665bf7ef26a5ca4",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_2_Skewness.pdf",
+      "Packaged_SHA256": "0862645ac115e0e1a393e0cdebbfc9880aab624463730c28c665bf7ef26a5ca4",
+      "Original_bytes": 70682,
+      "Packaged_bytes": 70682,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Supplementary_Figure_2_Skewness.png",
+      "Original_SHA256": "5c0db20e6bbaf0fff96fb0128bbbe0e36c041d9a5fee6eaf69c8474540d85af2",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_2_Skewness.png",
+      "Packaged_SHA256": "5c0db20e6bbaf0fff96fb0128bbbe0e36c041d9a5fee6eaf69c8474540d85af2",
+      "Original_bytes": 154424,
+      "Packaged_bytes": 154424,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Supplementary_Figure_2_Skewness.tif",
+      "Original_SHA256": "701498d4b006d37896ffe9b37966edbdf7aac3b6f40e4463d624b15051be3dca",
+      "Packaged_path": "Figures/TIFF/Supplementary_Figure_2_Skewness.tif",
+      "Packaged_SHA256": "701498d4b006d37896ffe9b37966edbdf7aac3b6f40e4463d624b15051be3dca",
+      "Original_bytes": 384248,
+      "Packaged_bytes": 384248,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Supplementary_Figure_3_Kurtosis.pdf",
+      "Original_SHA256": "fa1c628d3b6bf479d82151a938dd3f1d424676e076d9bd506cc0700bd404eeb8",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_3_Kurtosis.pdf",
+      "Packaged_SHA256": "fa1c628d3b6bf479d82151a938dd3f1d424676e076d9bd506cc0700bd404eeb8",
+      "Original_bytes": 71136,
+      "Packaged_bytes": 71136,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Supplementary_Figure_3_Kurtosis.png",
+      "Original_SHA256": "855bcbf6aaed736c58e05a88028015e928857ccee5b4425d242553f9fcadcb0e",
+      "Packaged_path": "Figures/PNG/Supplementary_Figure_3_Kurtosis.png",
+      "Packaged_SHA256": "855bcbf6aaed736c58e05a88028015e928857ccee5b4425d242553f9fcadcb0e",
+      "Original_bytes": 151250,
+      "Packaged_bytes": 151250,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Supplementary_Figure_3_Kurtosis.tif",
+      "Original_SHA256": "9abd6e603dc1f449ec18f995b5cafdc8a6f543372c148388f839aee4639ee590",
+      "Packaged_path": "Figures/TIFF/Supplementary_Figure_3_Kurtosis.tif",
+      "Packaged_SHA256": "9abd6e603dc1f449ec18f995b5cafdc8a6f543372c148388f839aee4639ee590",
+      "Original_bytes": 387752,
+      "Packaged_bytes": 387752,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Parameter_Comparison_South_Korea_WaveWise.pdf",
+      "Original_SHA256": "406063ab06d56bbb8cbd56da0f416fb725d76e3774f6f4dc2c9d7c10e1c5b3e9",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_South_Korea_WaveWise.pdf",
+      "Packaged_SHA256": "406063ab06d56bbb8cbd56da0f416fb725d76e3774f6f4dc2c9d7c10e1c5b3e9",
+      "Original_bytes": 77386,
+      "Packaged_bytes": 77386,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Parameter_Comparison_South_Korea_WaveWise.png",
+      "Original_SHA256": "44310f5c46acc53f0bbffc1507917cd7b82f46b8081d88fbacbfae9f87f3f512",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_South_Korea_WaveWise.png",
+      "Packaged_SHA256": "44310f5c46acc53f0bbffc1507917cd7b82f46b8081d88fbacbfae9f87f3f512",
+      "Original_bytes": 1001239,
+      "Packaged_bytes": 1001239,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Parameter_Comparison_South_Korea_WaveWise.tif",
+      "Original_SHA256": "369c431cfa1bc86ac6438b25b3a73eb9ecff298e2bfa049d0e1c53ad114ed920",
+      "Packaged_path": "Figures/TIFF/Parameter_Comparison_South_Korea_WaveWise.tif",
+      "Packaged_SHA256": "369c431cfa1bc86ac6438b25b3a73eb9ecff298e2bfa049d0e1c53ad114ed920",
+      "Original_bytes": 1185144,
+      "Packaged_bytes": 1185144,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Parameter_Comparison_Japan_WaveWise.pdf",
+      "Original_SHA256": "b78f0ca613457d88f2948a3febd6c672ecd0fe39d7f094dce222e403d840deea",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_Japan_WaveWise.pdf",
+      "Packaged_SHA256": "b78f0ca613457d88f2948a3febd6c672ecd0fe39d7f094dce222e403d840deea",
+      "Original_bytes": 78481,
+      "Packaged_bytes": 78481,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Parameter_Comparison_Japan_WaveWise.png",
+      "Original_SHA256": "39422bbb234b574e101a636cded84be85f1a4c597fba7e3a8a43f43287f53098",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_Japan_WaveWise.png",
+      "Packaged_SHA256": "39422bbb234b574e101a636cded84be85f1a4c597fba7e3a8a43f43287f53098",
+      "Original_bytes": 1049129,
+      "Packaged_bytes": 1049129,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Parameter_Comparison_Japan_WaveWise.tif",
+      "Original_SHA256": "bf14833e209483ed0e2bc55d336f85074b59b11dc21e99ca843c0f1653032e88",
+      "Packaged_path": "Figures/TIFF/Parameter_Comparison_Japan_WaveWise.tif",
+      "Packaged_SHA256": "bf14833e209483ed0e2bc55d336f85074b59b11dc21e99ca843c0f1653032e88",
+      "Original_bytes": 1252664,
+      "Packaged_bytes": 1252664,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Parameter_Comparison_Pakistan_WaveWise.pdf",
+      "Original_SHA256": "54e49c8d891ac24a59f2aa3dde442e4a9f05dcfcb2815258a632fce8e6b873ee",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_Pakistan_WaveWise.pdf",
+      "Packaged_SHA256": "54e49c8d891ac24a59f2aa3dde442e4a9f05dcfcb2815258a632fce8e6b873ee",
+      "Original_bytes": 81754,
+      "Packaged_bytes": 81754,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/JPG/Parameter_Comparison_Pakistan_WaveWise.png",
+      "Original_SHA256": "69e546603776d1c80db1dc06bf5bbdbe11d5f3232a8a812ecdea500e6383c138",
+      "Packaged_path": "Figures/PNG/Parameter_Comparison_Pakistan_WaveWise.png",
+      "Packaged_SHA256": "69e546603776d1c80db1dc06bf5bbdbe11d5f3232a8a812ecdea500e6383c138",
+      "Original_bytes": 880821,
+      "Packaged_bytes": 880821,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "Python_2026/Results/Figures/TIFF/Parameter_Comparison_Pakistan_WaveWise.tif",
+      "Original_SHA256": "f5d1492793f9d40d1ea4dbc76dae707336ffb402fb619e4739ffde5ebc0b2f85",
+      "Packaged_path": "Figures/TIFF/Parameter_Comparison_Pakistan_WaveWise.tif",
+      "Packaged_SHA256": "f5d1492793f9d40d1ea4dbc76dae707336ffb402fb619e4739ffde5ebc0b2f85",
+      "Original_bytes": 1172498,
+      "Packaged_bytes": 1172498,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/submission_bundle/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.pdf",
+      "Original_SHA256": "1ba3e5c516d7d4ee0b4c4802bf59b2fcb01701ca9001447af143f988fbe331c2",
+      "Packaged_path": "Figures/PNG/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.pdf",
+      "Packaged_SHA256": "1ba3e5c516d7d4ee0b4c4802bf59b2fcb01701ca9001447af143f988fbe331c2",
+      "Original_bytes": 81684,
+      "Packaged_bytes": 81684,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.png",
+      "Original_SHA256": "094cbe42091e9db5bb48013bd4764a1233138e887e6ae44c4dde4a36fb128663",
+      "Packaged_path": "Figures/PNG/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.png",
+      "Packaged_SHA256": "094cbe42091e9db5bb48013bd4764a1233138e887e6ae44c4dde4a36fb128663",
+      "Original_bytes": 918584,
+      "Packaged_bytes": 918584,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.tif",
+      "Original_SHA256": "720ef6971016113da6395f8315ac6d5b0e7894f4dbb0d5377e1b9924c958b544",
+      "Packaged_path": "Figures/TIFF/Restored_EnKF_EnKPF_Forecasts_FullRange_S7.tif",
+      "Packaged_SHA256": "720ef6971016113da6395f8315ac6d5b0e7894f4dbb0d5377e1b9924c958b544",
+      "Original_bytes": 1286382,
+      "Packaged_bytes": 1286382,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Clipping_Audit.csv",
+      "Original_SHA256": "acaf6438fe2483ae847348da49c6d3d5a68ec70ceaaf48da121a9532d9a83a0e",
+      "Packaged_path": "Results/Forecast/Clipping_Audit.csv",
+      "Packaged_SHA256": "acaf6438fe2483ae847348da49c6d3d5a68ec70ceaaf48da121a9532d9a83a0e",
+      "Original_bytes": 9511,
+      "Packaged_bytes": 9511,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Forecast_Figure_Captions.txt",
+      "Original_SHA256": "58bcad03fea56e8445129d7542cab604b12fb3ec019572d991d99e8f6e070fe5",
+      "Packaged_path": "Results/Forecast/Forecast_Figure_Captions.txt",
+      "Packaged_SHA256": "58bcad03fea56e8445129d7542cab604b12fb3ec019572d991d99e8f6e070fe5",
+      "Original_bytes": 2151,
+      "Packaged_bytes": 2151,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/residual_outputs/Forecast_Figure_Provenance.json",
+      "Original_SHA256": "89e4696ca416c470a4fd42c61515bfcd311e6b8ff398b8c112672f24deb5da68",
+      "Packaged_path": "Results/Forecast/Forecast_Figure_Provenance.json",
+      "Packaged_SHA256": "594bf377dcd0eb3b51dc94e011c3e90df5c7325cfbc44da7df8f8abca7c4555f",
+      "Original_bytes": 48158,
+      "Packaged_bytes": 49339,
+      "Extraction": "Figure provenance; packaged file hashes updated for frozen approved PDF snapshots. Original export hashes retained."
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Completed_Original_Peak_Results.csv",
+      "Original_SHA256": "74af027d3d4406f7cf6f8cf203a2387b2c750b2036919d9055782ea776ef12b2",
+      "Packaged_path": "Results/Forecast/Completed_Original_Peak_Results.csv",
+      "Packaged_SHA256": "74af027d3d4406f7cf6f8cf203a2387b2c750b2036919d9055782ea776ef12b2",
+      "Original_bytes": 879,
+      "Packaged_bytes": 879,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Completed_Peak_Summary.csv",
+      "Original_SHA256": "b1a71ff89a1c7efa12dfa2ab960034e315bd0595ddcaa9584f9f8e29d266ba76",
+      "Packaged_path": "Results/Forecast/Completed_Peak_Summary.csv",
+      "Packaged_SHA256": "b1a71ff89a1c7efa12dfa2ab960034e315bd0595ddcaa9584f9f8e29d266ba76",
+      "Original_bytes": 1305,
+      "Packaged_bytes": 1305,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Converged_Subset_Original_Peak_Results.csv",
+      "Original_SHA256": "594165731941643d94b1a4c4872dd7b55d9f97dbf86d15dc0ca99d3aa2ae9f19",
+      "Packaged_path": "Results/Forecast/Converged_Subset_Original_Peak_Results.csv",
+      "Packaged_SHA256": "594165731941643d94b1a4c4872dd7b55d9f97dbf86d15dc0ca99d3aa2ae9f19",
+      "Original_bytes": 614,
+      "Packaged_bytes": 614,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Converged_Subset_Peak_Summary.csv",
+      "Original_SHA256": "5fa776ecfb5326014ace6504a463d3057713b4671913702df0e7b0730ee90dd1",
+      "Packaged_path": "Results/Forecast/Converged_Subset_Peak_Summary.csv",
+      "Packaged_SHA256": "5fa776ecfb5326014ace6504a463d3057713b4671913702df0e7b0730ee90dd1",
+      "Original_bytes": 1236,
+      "Packaged_bytes": 1236,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Eligibility.csv",
+      "Original_SHA256": "7661ea24790ef61e348ca74be6fc86092a499132a7b0ce8283e449f069e892d0",
+      "Packaged_path": "Results/Forecast/Eligibility.csv",
+      "Packaged_SHA256": "7661ea24790ef61e348ca74be6fc86092a499132a7b0ce8283e449f069e892d0",
+      "Original_bytes": 834,
+      "Packaged_bytes": 834,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Eligible_Original_Peak_Results.csv",
+      "Original_SHA256": "594165731941643d94b1a4c4872dd7b55d9f97dbf86d15dc0ca99d3aa2ae9f19",
+      "Packaged_path": "Results/Forecast/Eligible_Original_Peak_Results.csv",
+      "Packaged_SHA256": "594165731941643d94b1a4c4872dd7b55d9f97dbf86d15dc0ca99d3aa2ae9f19",
+      "Original_bytes": 614,
+      "Packaged_bytes": 614,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Eligible_Peak_Summary.csv",
+      "Original_SHA256": "5fa776ecfb5326014ace6504a463d3057713b4671913702df0e7b0730ee90dd1",
+      "Packaged_path": "Results/Forecast/Eligible_Peak_Summary.csv",
+      "Packaged_SHA256": "5fa776ecfb5326014ace6504a463d3057713b4671913702df0e7b0730ee90dd1",
+      "Original_bytes": 1236,
+      "Packaged_bytes": 1236,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Focused_Figure_Provenance.json",
+      "Original_SHA256": "56a37509a0ed28aeae9feee256f447111f33bff10b6a2eefddef0162e2061bbb",
+      "Packaged_path": "Results/Forecast/Focused_Figure_Provenance.json",
+      "Packaged_SHA256": "56a37509a0ed28aeae9feee256f447111f33bff10b6a2eefddef0162e2061bbb",
+      "Original_bytes": 3303,
+      "Packaged_bytes": 3303,
+      "Extraction": "Byte-for-byte copy"
+    },
+    {
+      "Original_source": "AMM_Validation/editorial/focused_outputs/Key_Results.json",
+      "Original_SHA256": "9471f06485dde5850ea30d824130f852049b6e3ad056dac49a3e37a456eeeb0b",
+      "Packaged_path": "Results/Forecast/Key_Results.json",
+      "Packaged_SHA256": "9471f06485dde5850ea30d824130f852049b6e3ad056dac49a3e37a456eeeb0b",
+      "Original_bytes": 13102,
+      "Packaged_bytes": 13102,
+      "Extraction": "Byte-for-byte copy"
+    }
+  ]
+}

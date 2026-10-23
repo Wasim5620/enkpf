@@ -1,0 +1,35 @@
+{
+  "Country": "Japan",
+  "Parameters": [
+    "beta",
+    "beta_f",
+    "mu_f",
+    "I0"
+  ],
+  "Initial_parameters": [
+    0.1,
+    0.1,
+    0.01,
+    20.0
+  ],
+  "Population": 125800000.0,
+  "Wave_rows_1_based_inclusive": [
+    [
+      50,
+      160
+    ],
+    [
+      160,
+      275
+    ],
+    [
+      275,
+      391
+    ]
+  ],
+  "Observation_file": "covid_data-japan1.xlsx",
+  "Recovered_column": "RecAcc",
+  "Original_script_name": "mainJapan_all_hybrid_LSM.m",
+  "Original_script_SHA256": "75a2eafaa736586869b152612013f9182cee45bbff338aa3600f79130a326dbd",
+  "Note": "Initialization metadata extracted from the original script; values are checked against saved-run MAT metadata when the notebook runs. No MATLAB code is required or included."
+}

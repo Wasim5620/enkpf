@@ -1,0 +1,30 @@
+{
+  "Main_Manuscript": {
+    "tab:static-rmse": "Overall static-fit RMSE summaries. The Q-only and joint Q/R targets have different observation sets.",
+    "tab:enkpf": "Overall matched EnKF and EnKPF fitting summaries. The Poisson observation criterion uses 12 nominal parameters across three waves and is interpreted descriptively for these adaptive filters.",
+    "tab:focused-peak-results": "Completed original peak-origin forecast comparisons for all three countries. Scores cover the full held-out remainder. Coverage is EnKPF's latent central 95% interval coverage, in percent.",
+    "tab:policy": "Mean reduction in the simulated active-case peak across three waves. Both scenarios increase $\\beta_f$ by 5%; activation occurs after 10% (early) or 30% (late) of elapsed wave duration."
+  },
+  "Supplementary_Manuscript": {
+    "tab:s1": "Initial parameter guesses used in the country MATLAB scripts.",
+    "tab:s2": "Wave-specific population and initial-state construction. $Q_0$ and $R_0$ are observed counts, and $\\widehat I_{0,w}$ is estimated for wave $w$.",
+    "tab:s3": "Overall AIC for static estimation.",
+    "tab:s4": "JB endpoint marginal-normality rejection counts, among four parameters per country--wave, using the finite-ensemble MATLAB convention at 5%.",
+    "tab:s5": "Mardia tests of current full-wave hybrid-comparison EnKF endpoint ensembles. The joint null is rejected if either p-value is below 0.05.",
+    "tab:s6": "Matched EnKF and standalone PF RMSE pooled across the joint Q/R observations.",
+    "tab:s7": "Matched EnKF and standalone PF reported Poisson observation criterion.",
+    "tab:s8": "Standalone PF diversity diagnostics for 200 particles. ESS statistics are evaluated before resampling. Parent-count means include all steps, with 200 recorded when resampling is omitted.",
+    "tab:s9": "Current matched wave-level RMSE for Q and R, evaluated separately.",
+    "tab:s10": "Intervention activation times in days since wave start and simulated peak reduction. Both scenarios increase $\\beta_f$ by 5%; early activation is at 10% and late activation at 30% of elapsed wave duration. Values within $10^{-4}$ percentage points of zero are rounded to zero.",
+    "tab:oos-splits": "Completed retrospective peak origins, training/test lengths, and original random seeds.",
+    "tab:oos-rmse-r2": "Held-out peak-origin forecast RMSE and coefficient of determination for current canonical runs.",
+    "tab:oos-coverage-aic": "Peak-origin central 95% ensemble-interval coverage and legacy residual score. The residual score ranks RSS rather than independently assessing calibration.",
+    "tab:source-protocols": "Distinct analysis protocols used in the manuscript. Reference ensembles must be matched to their own experiment.",
+    "tab:lhs-bounds": "Common Latin hypercube parameter bounds used for the current global PRCC figure.",
+    "tab:lhs-windows": "Country--wave sensitivity integration windows. Duration is elapsed days between the first and last reporting dates.",
+    "tab:amm-recovery": "Idealized Poisson parameter recovery across 20 paired replicates per generating vector. Relative bias and RMSE are percentages; every selected fit is retained.",
+    "tab:amm-information": "Unregularized information diagnostics at the generating parameter vectors. Condition is $\\operatorname{cond}(J_w^\\top J_w)$; the last column is $\\sigma_{\\min}(J_w)$ for the weighted log-parameter Jacobian. Numerical rank and conditioning are local, design-specific measures.",
+    "tab:focused-eligibility": "Completion and training-initializer diagnostics for the native peak forecasts. All completed origins enter the primary analysis; positive optimizer termination flags define a separate sensitivity subset.",
+    "tab:focused-seed-summary": "Fourteen-day repeated-seed forecasts for all three completed peak origins and the converged-initializer sensitivity subset. Both summaries retain all five declared seeds and both outcomes at each included origin."
+  }
+}

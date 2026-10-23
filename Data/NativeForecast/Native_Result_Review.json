@@ -1,0 +1,183 @@
+{
+  "script_reproduction": {
+    "declared": 3,
+    "success": 3,
+    "failed": 0,
+    "not_run": 0,
+    "14-day": {
+      "macro_NRMSE": {
+        "EnKF": 13.325263495541352,
+        "EnKPF": 0.19457853354087892,
+        "StaticLSM": 1.2418525015157658,
+        "Persistence": 0.9298058090108957
+      },
+      "EnKPF_lower_RMSE_than_EnKF": 6,
+      "paired_outcomes": 6
+    },
+    "Full remainder": {
+      "macro_NRMSE": {
+        "EnKF": 563.4686500471634,
+        "EnKPF": 0.4251120271492563,
+        "StaticLSM": 1.9944446462464307,
+        "Persistence": 2.318187106224046
+      },
+      "EnKPF_lower_RMSE_than_EnKF": 6,
+      "paired_outcomes": 6
+    },
+    "original_script_comparison": [
+      {
+        "Country": "Korea",
+        "Method": "EnKF",
+        "Outcome": "Q",
+        "RMSE": 421.707363449881,
+        "ReferenceRMSE": 421.707363449881,
+        "Matches": true,
+        "R2": -9.31675778173472,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Korea",
+        "Method": "EnKF",
+        "Outcome": "R",
+        "RMSE": 994.115747874607,
+        "ReferenceRMSE": 994.115747874607,
+        "Matches": true,
+        "R2": -0.781273260490038,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Korea",
+        "Method": "EnKPF",
+        "Outcome": "Q",
+        "RMSE": 138.989141256334,
+        "ReferenceRMSE": 138.989141256334,
+        "Matches": true,
+        "R2": -0.12068254806713,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Korea",
+        "Method": "EnKPF",
+        "Outcome": "R",
+        "RMSE": 251.602646925012,
+        "ReferenceRMSE": 251.602646925012,
+        "Matches": true,
+        "R2": 0.885899629972714,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Japan",
+        "Method": "EnKF",
+        "Outcome": "Q",
+        "RMSE": 2738012.45651787,
+        "ReferenceRMSE": 2738012.45651787,
+        "Matches": true,
+        "R2": -989652.277845667,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Japan",
+        "Method": "EnKF",
+        "Outcome": "R",
+        "RMSE": 4384440.93451959,
+        "ReferenceRMSE": 4384440.93451959,
+        "Matches": true,
+        "R2": -1733750.9899698,
+        "LatentCoverage95": 96.3636363636364
+      },
+      {
+        "Country": "Japan",
+        "Method": "EnKPF",
+        "Outcome": "Q",
+        "RMSE": 693.384336992933,
+        "ReferenceRMSE": 693.384336992933,
+        "Matches": true,
+        "R2": 0.936531200714929,
+        "LatentCoverage95": 43.6363636363636
+      },
+      {
+        "Country": "Japan",
+        "Method": "EnKPF",
+        "Outcome": "R",
+        "RMSE": 1780.95206132204,
+        "ReferenceRMSE": 1780.95206132204,
+        "Matches": true,
+        "R2": 0.713936146917184,
+        "LatentCoverage95": 69.0909090909091
+      },
+      {
+        "Country": "Pakistan",
+        "Method": "EnKF",
+        "Outcome": "Q",
+        "RMSE": 2295297.85358734,
+        "ReferenceRMSE": 2295297.85358734,
+        "Matches": true,
+        "R2": -6611.43014205977,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Pakistan",
+        "Method": "EnKF",
+        "Outcome": "R",
+        "RMSE": 5889670.58143426,
+        "ReferenceRMSE": 5889670.58143426,
+        "Matches": true,
+        "R2": -13680.796079989,
+        "LatentCoverage95": 100.0
+      },
+      {
+        "Country": "Pakistan",
+        "Method": "EnKPF",
+        "Outcome": "Q",
+        "RMSE": 11704.1970011387,
+        "ReferenceRMSE": 11704.1970011387,
+        "Matches": true,
+        "R2": 0.828064228412185,
+        "LatentCoverage95": 86.4077669902913
+      },
+      {
+        "Country": "Pakistan",
+        "Method": "EnKPF",
+        "Outcome": "R",
+        "RMSE": 36367.5040679472,
+        "ReferenceRMSE": 36367.5040679472,
+        "Matches": true,
+        "R2": 0.478339328599582,
+        "LatentCoverage95": 78.6407766990291
+      }
+    ]
+  },
+  "peak_stability": {
+    "declared": 15,
+    "success": 15,
+    "failed": 0,
+    "not_run": 0,
+    "14-day": {
+      "macro_NRMSE": {
+        "EnKF": 11.150219154123707,
+        "EnKPF": 0.417617284117264,
+        "StaticLSM": 1.2418525015157658,
+        "Persistence": 0.9298058090108957
+      },
+      "EnKPF_lower_RMSE_than_EnKF": 21,
+      "paired_outcomes": 30
+    },
+    "Full remainder": {
+      "macro_NRMSE": {
+        "EnKF": 545.9138161523084,
+        "EnKPF": 54.476888805917355,
+        "StaticLSM": 1.9944446462464307,
+        "Persistence": 2.318187106224046
+      },
+      "EnKPF_lower_RMSE_than_EnKF": 24,
+      "paired_outcomes": 30
+    }
+  },
+  "fixed_origins": {
+    "declared": 135,
+    "success": 107,
+    "failed": 0,
+    "not_run": 28,
+    "interpretation": "Incomplete optional extension; no aggregate performance claim is calculated."
+  }
+}
