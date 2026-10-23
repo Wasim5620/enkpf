@@ -1,0 +1,357 @@
+{
+  "ProtocolID": "NativeMATLAB_OriginalFilters_20261020_v1",
+  "ImplementationHash": "1ab575d44c3fc57f9e71d98784b837d4fce43442fd91342cc12e1d254b0ba421",
+  "EligibilityRule": "Retain all three completed original country-specific peak protocols and every declared computational seed for every method. Report the training optimizer termination flag separately; do not select countries or seeds by forecast error.",
+  "EligibilityChronology": "The earlier retrospective positive-exit-flag restriction is retained as a converged-initializer sensitivity subset. The completed Pakistani experiment is restored to the primary descriptive analysis with its evaluation-limit termination disclosed. Neither analysis is preregistered or independent validation.",
+  "IncludedCountries": [
+    "Korea",
+    "Japan",
+    "Pakistan"
+  ],
+  "ExcludedCountries": [],
+  "ExcludedReason": "None of the three completed native peak protocols is excluded from the primary descriptive summary.",
+  "OriginalRuns": 3,
+  "OriginalRMSEValuesMatched": 12,
+  "OriginalEnKPFWins": 6,
+  "OriginalPairedOutcomes": 6,
+  "RepeatedRuns": 15,
+  "Seeds": [
+    0,
+    1,
+    123,
+    2026,
+    202601
+  ],
+  "Comparisons": {
+    "14-day": {
+      "EnKPF_lower_RMSE_than_EnKF": 21,
+      "PairedOutcomes": 30
+    },
+    "Full remainder": {
+      "EnKPF_lower_RMSE_than_EnKF": 24,
+      "PairedOutcomes": 30
+    }
+  },
+  "OriginalResults": [
+    {
+      "Country": "Korea",
+      "Outcome": "Q",
+      "RMSE_EnKF": 421.707363449881,
+      "RMSE_EnKPF": 138.989141256334,
+      "R2_EnKF": -9.31675778173472,
+      "R2_EnKPF": -0.12068254806713,
+      "ResidualAIC_EnKF": 588.253915706884,
+      "ResidualAIC_EnKPF": 481.701997723626,
+      "EnKPF_LatentCoverage95Percent": 100.0
+    },
+    {
+      "Country": "Korea",
+      "Outcome": "R",
+      "RMSE_EnKF": 994.115747874607,
+      "RMSE_EnKPF": 251.602646925012,
+      "R2_EnKF": -0.781273260490038,
+      "R2_EnKPF": 0.885899629972714,
+      "ResidualAIC_EnKF": 670.577950057389,
+      "ResidualAIC_EnKPF": 538.6737003335,
+      "EnKPF_LatentCoverage95Percent": 100.0
+    },
+    {
+      "Country": "Japan",
+      "Outcome": "Q",
+      "RMSE_EnKF": 2738012.45651787,
+      "RMSE_EnKPF": 693.384336992933,
+      "R2_EnKF": -989652.277845667,
+      "R2_EnKPF": 0.936531200714929,
+      "ResidualAIC_EnKF": 1638.50171177469,
+      "ResidualAIC_EnKPF": 727.574288872143,
+      "EnKPF_LatentCoverage95Percent": 43.6363636363636
+    },
+    {
+      "Country": "Japan",
+      "Outcome": "R",
+      "RMSE_EnKF": 4384440.93451959,
+      "RMSE_EnKPF": 1780.95206132204,
+      "R2_EnKF": -1733750.9899698,
+      "R2_EnKPF": 0.713936146917184,
+      "ResidualAIC_EnKF": 1690.292994875,
+      "ResidualAIC_EnKPF": 831.339370282836,
+      "EnKPF_LatentCoverage95Percent": 69.0909090909091
+    },
+    {
+      "Country": "Pakistan",
+      "Outcome": "Q",
+      "RMSE_EnKF": 2295297.85358734,
+      "RMSE_EnKPF": 11704.1970011387,
+      "R2_EnKF": -6611.43014205977,
+      "R2_EnKPF": 0.828064228412185,
+      "ResidualAIC_EnKF": 3025.15287441128,
+      "ResidualAIC_EnKPF": 1937.74677154864,
+      "EnKPF_LatentCoverage95Percent": 86.4077669902913
+    },
+    {
+      "Country": "Pakistan",
+      "Outcome": "R",
+      "RMSE_EnKF": 5889670.58143426,
+      "RMSE_EnKPF": 36367.5040679472,
+      "R2_EnKF": -13680.796079989,
+      "R2_EnKPF": 0.478339328599582,
+      "ResidualAIC_EnKF": 3219.27438887659,
+      "ResidualAIC_EnKPF": 2171.29476735788,
+      "EnKPF_LatentCoverage95Percent": 78.6407766990291
+    }
+  ],
+  "Summaries": [
+    {
+      "Horizon": "14-day",
+      "Method": "EnKF",
+      "MacroNRMSE": 11.150219154123707,
+      "SharedSeedMacroSD": 3.4635867176537265,
+      "LatentCoverage95Percent": 98.80952380952381,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "14-day",
+      "Method": "EnKPF",
+      "MacroNRMSE": 0.417617284117264,
+      "SharedSeedMacroSD": 0.24681803277861247,
+      "LatentCoverage95Percent": 81.66666666666666,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "14-day",
+      "Method": "StaticLSM",
+      "MacroNRMSE": 1.2418525015157658,
+      "SharedSeedMacroSD": 0.0,
+      "LatentCoverage95Percent": null,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "14-day",
+      "Method": "Persistence",
+      "MacroNRMSE": 0.9298058090108957,
+      "SharedSeedMacroSD": 0.0,
+      "LatentCoverage95Percent": null,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "Full remainder",
+      "Method": "EnKF",
+      "MacroNRMSE": 545.9138161523084,
+      "SharedSeedMacroSD": 191.7494060351912,
+      "LatentCoverage95Percent": 99.6969696969697,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "Full remainder",
+      "Method": "EnKPF",
+      "MacroNRMSE": 54.47688880591735,
+      "SharedSeedMacroSD": 78.43462458911884,
+      "LatentCoverage95Percent": 70.12003530450131,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "Full remainder",
+      "Method": "StaticLSM",
+      "MacroNRMSE": 1.9944446462464307,
+      "SharedSeedMacroSD": 0.0,
+      "LatentCoverage95Percent": null,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    },
+    {
+      "Horizon": "Full remainder",
+      "Method": "Persistence",
+      "MacroNRMSE": 2.318187106224046,
+      "SharedSeedMacroSD": 0.0,
+      "LatentCoverage95Percent": null,
+      "Countries": "Korea;Japan;Pakistan",
+      "Origins": 3,
+      "Seeds": 5,
+      "CountrySeedRuns": 15,
+      "OutcomeRows": 30,
+      "Aggregation": "Equal Q/R, five seeds, and 3 country-specific origins"
+    }
+  ],
+  "UncertaintyTarget": "Latent central 95% empirical ensemble quantiles; no future measurement noise.",
+  "FullRemainderDurations": {
+    "Korea": 48,
+    "Japan": 55,
+    "Pakistan": 103
+  },
+  "Scope": "All three completed first-window retrospective peak origins, with Pakistan's LSM evaluation-limit flag disclosed; all five seeds retained; no unfinished-extension scores or figures.",
+  "ConvergedSubset": {
+    "Rule": "For the sensitivity subset, retain an entire country-specific origin only if the original LSM initializer and all five declared repeated-seed initializer records have positive OptimizerExitFlag values. Apply the origin-level rule uniformly to all methods and outcomes, independently of forecast scores.",
+    "IncludedCountries": [
+      "Korea",
+      "Japan"
+    ],
+    "ExcludedCountries": [
+      "Pakistan"
+    ],
+    "OriginalRuns": 2,
+    "OriginalEnKPFWins": 4,
+    "OriginalPairedOutcomes": 4,
+    "RepeatedRuns": 10,
+    "Comparisons": {
+      "14-day": {
+        "EnKPF_lower_RMSE_than_EnKF": 16,
+        "PairedOutcomes": 20
+      },
+      "Full remainder": {
+        "EnKPF_lower_RMSE_than_EnKF": 16,
+        "PairedOutcomes": 20
+      }
+    },
+    "Summaries": [
+      {
+        "Horizon": "14-day",
+        "Method": "EnKF",
+        "MacroNRMSE": 16.494044001786623,
+        "SharedSeedMacroSD": 5.136967225102438,
+        "LatentCoverage95Percent": 98.21428571428571,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "14-day",
+        "Method": "EnKPF",
+        "MacroNRMSE": 0.3811921547842485,
+        "SharedSeedMacroSD": 0.38603474370836754,
+        "LatentCoverage95Percent": 90.71428571428571,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "14-day",
+        "Method": "StaticLSM",
+        "MacroNRMSE": 1.1996121905312493,
+        "SharedSeedMacroSD": 0.0,
+        "LatentCoverage95Percent": null,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "14-day",
+        "Method": "Persistence",
+        "MacroNRMSE": 0.9611651702299484,
+        "SharedSeedMacroSD": 0.0,
+        "LatentCoverage95Percent": null,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "Full remainder",
+        "Method": "EnKF",
+        "MacroNRMSE": 783.981351720677,
+        "SharedSeedMacroSD": 268.4425220368537,
+        "LatentCoverage95Percent": 99.54545454545455,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "Full remainder",
+        "Method": "EnKPF",
+        "MacroNRMSE": 27.943541715138803,
+        "SharedSeedMacroSD": 57.883932757007095,
+        "LatentCoverage95Percent": 91.63636363636363,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "Full remainder",
+        "Method": "StaticLSM",
+        "MacroNRMSE": 1.1113393886187386,
+        "SharedSeedMacroSD": 0.0,
+        "LatentCoverage95Percent": null,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      },
+      {
+        "Horizon": "Full remainder",
+        "Method": "Persistence",
+        "MacroNRMSE": 1.9307529750427612,
+        "SharedSeedMacroSD": 0.0,
+        "LatentCoverage95Percent": null,
+        "Countries": "Korea;Japan",
+        "Origins": 2,
+        "Seeds": 5,
+        "CountrySeedRuns": 10,
+        "OutcomeRows": 20,
+        "Aggregation": "Equal Q/R, five seeds, and 2 country-specific origins"
+      }
+    ]
+  },
+  "Sources": {
+    "MATLAB_Forecast_Validation/results/script_reproduction/Run_Manifest.csv": "eae079e9b61e65a8480ee609bacaba66115543bc7ea54c29782b5babf04c0b6f",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Fit_Diagnostics.csv": "b46946107480a95def1f9bca920fa2975522024823a2a932ab066559419ab269",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Metrics.csv": "b2bee16814b6057107ee0864ed93d9daf9176554a55ba15cda905d6724047153",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Predictions.csv": "115ac2e188e0196918e08f0fcfcb47a895b44d3c96e3b2f2980d92ec9ade0ff7",
+    "MATLAB_Forecast_Validation/results/peak_stability/Run_Manifest.csv": "006390d30d8bf40273fb0dc4d1fd681624d93cfb7a3302edb941c18917c37587",
+    "MATLAB_Forecast_Validation/results/peak_stability/Fit_Diagnostics.csv": "8fe12385eb1794ec41fe9081346c7fc5ac2211aa0ee0d5d658cbad19297b8085",
+    "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Metrics.csv": "dd24f2326b1401da1ae33c291515a4b9cee978fe65b12c82f785758784cc545b",
+    "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Predictions.csv": "15a159938461c86575f56861618b30767a45372eacfb4d303edea8b33b77aebc",
+    "MATLAB_Forecast_Validation/results/Native_Result_Review.json": "d44041186ae050c8c8cd42086b2a0a17440394aecfb6923a0161052aab5b5df3"
+  }
+}

@@ -1,0 +1,9 @@
+Horizon,Method,MacroNRMSE,SharedSeedMacroSD,LatentCoverage95Percent,Countries,Origins,Seeds,CountrySeedRuns,OutcomeRows,Aggregation
+14-day,EnKF,11.150219154123707,3.4635867176537265,98.80952380952381,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+14-day,EnKPF,0.417617284117264,0.24681803277861247,81.66666666666666,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+14-day,StaticLSM,1.2418525015157658,0.0,,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+14-day,Persistence,0.9298058090108957,0.0,,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+Full remainder,EnKF,545.9138161523084,191.7494060351912,99.6969696969697,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+Full remainder,EnKPF,54.47688880591735,78.43462458911884,70.12003530450131,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+Full remainder,StaticLSM,1.9944446462464307,0.0,,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"
+Full remainder,Persistence,2.318187106224046,0.0,,Korea;Japan;Pakistan,3,5,15,30,"Equal Q/R, five seeds, and 3 country-specific origins"

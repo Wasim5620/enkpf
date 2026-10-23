@@ -1,0 +1,77 @@
+{
+  "Figure": "Focused_EnKPF_Peak_Forecasts",
+  "SizeInches": [
+    7,
+    8.0
+  ],
+  "RasterDPI": 600,
+  "ShownMethod": "EnKPF only; EnKF comparison is numerical in the accompanying table.",
+  "Realizations": {
+    "Korea": 1,
+    "Japan": 123,
+    "Pakistan": 1
+  },
+  "SelectedByForecastError": false,
+  "MeanOrBandClipping": false,
+  "AxisAudit": [
+    {
+      "Country": "Korea",
+      "Outcome": "Q",
+      "MaximumDisplayedValue": 7470.0,
+      "AxisMaximum": 7880.849999999999,
+      "ClippedMeanOrBandEndpoints": 0
+    },
+    {
+      "Country": "Korea",
+      "Outcome": "R",
+      "MaximumDisplayedValue": 27651.9452835538,
+      "AxisMaximum": 29172.802274149257,
+      "ClippedMeanOrBandEndpoints": 0
+    },
+    {
+      "Country": "Japan",
+      "Outcome": "Q",
+      "MaximumDisplayedValue": 10678.0,
+      "AxisMaximum": 11265.289999999999,
+      "ClippedMeanOrBandEndpoints": 0
+    },
+    {
+      "Country": "Japan",
+      "Outcome": "R",
+      "MaximumDisplayedValue": 16452.0,
+      "AxisMaximum": 17356.86,
+      "ClippedMeanOrBandEndpoints": 0
+    },
+    {
+      "Country": "Pakistan",
+      "Outcome": "Q",
+      "MaximumDisplayedValue": 200185.984616982,
+      "AxisMaximum": 211196.213770916,
+      "ClippedMeanOrBandEndpoints": 0
+    },
+    {
+      "Country": "Pakistan",
+      "Outcome": "R",
+      "MaximumDisplayedValue": 605186.391863608,
+      "AxisMaximum": 638471.6434161065,
+      "ClippedMeanOrBandEndpoints": 0
+    }
+  ],
+  "Uncertainty": "Central 95% latent ensemble quantiles; no future measurement error.",
+  "Sources": {
+    "MATLAB_Forecast_Validation/results/script_reproduction/Run_Manifest.csv": "eae079e9b61e65a8480ee609bacaba66115543bc7ea54c29782b5babf04c0b6f",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Fit_Diagnostics.csv": "b46946107480a95def1f9bca920fa2975522024823a2a932ab066559419ab269",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Metrics.csv": "b2bee16814b6057107ee0864ed93d9daf9176554a55ba15cda905d6724047153",
+    "MATLAB_Forecast_Validation/results/script_reproduction/Forecast_Predictions.csv": "115ac2e188e0196918e08f0fcfcb47a895b44d3c96e3b2f2980d92ec9ade0ff7",
+    "MATLAB_Forecast_Validation/results/peak_stability/Run_Manifest.csv": "006390d30d8bf40273fb0dc4d1fd681624d93cfb7a3302edb941c18917c37587",
+    "MATLAB_Forecast_Validation/results/peak_stability/Fit_Diagnostics.csv": "8fe12385eb1794ec41fe9081346c7fc5ac2211aa0ee0d5d658cbad19297b8085",
+    "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Metrics.csv": "dd24f2326b1401da1ae33c291515a4b9cee978fe65b12c82f785758784cc545b",
+    "MATLAB_Forecast_Validation/results/peak_stability/Forecast_Predictions.csv": "15a159938461c86575f56861618b30767a45372eacfb4d303edea8b33b77aebc",
+    "MATLAB_Forecast_Validation/results/Native_Result_Review.json": "d44041186ae050c8c8cd42086b2a0a17440394aecfb6923a0161052aab5b5df3"
+  },
+  "Files": {
+    "Focused_EnKPF_Peak_Forecasts.pdf": "f7c0ea165e000cbb52209c742e3cfbf1d21878e274c56969e8b0913e03858b5c",
+    "Focused_EnKPF_Peak_Forecasts.png": "bac4bffca035acf40f2b88803e3c983b6d586f1eeefc6fc3f5b792f650facfbc",
+    "Focused_EnKPF_Peak_Forecasts.tif": "dce06b58b6a34401e9056819ff80b89406a79eab064373969fa08fd4ed7de668"
+  }
+}

@@ -1,0 +1,25 @@
+% Generated from current MATLAB exports. Include in the correct main/SI sequence.
+\begingroup\small\setlength{\tabcolsep}{3pt}
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.1700\linewidth}>{\raggedleft\arraybackslash}p{0.1320\linewidth}>{\raggedleft\arraybackslash}p{0.1320\linewidth}>{\raggedleft\arraybackslash}p{0.1320\linewidth}>{\raggedleft\arraybackslash}p{0.1320\linewidth}>{\raggedright\arraybackslash}p{0.1320\linewidth}}
+\caption{Completion and training-initializer diagnostics for the native peak forecasts. All completed origins enter the primary analysis; positive optimizer termination flags define a separate sensitivity subset.} \label{tab:focused-eligibility} \\
+\toprule
+Country & OriginalOptimizerExitFlag & OriginalOptimizerEvaluations & PrimaryIncluded & ConvergedSubsetIncluded & Reason \\
+\midrule
+\endfirsthead
+\caption[]{Completion and training-initializer diagnostics for the native peak forecasts. All completed origins enter the primary analysis; positive optimizer termination flags define a separate sensitivity subset.} \\
+\toprule
+Country & OriginalOptimizerExitFlag & OriginalOptimizerEvaluations & PrimaryIncluded & ConvergedSubsetIncluded & Reason \\
+\midrule
+\endhead
+\midrule
+\multicolumn{6}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+Korea & 1 & 825 & True & True & Completed forecast; positive training-optimizer exit flags; all five seeds retained. \\
+Japan & 1 & 657 & True & True & Completed forecast; positive training-optimizer exit flags; all five seeds retained. \\
+Pakistan & 0 & 1501 & True & False & Completed forecast retained; LSM reached its evaluation budget (flag 0); omitted only from the converged-initializer sensitivity subset. \\
+\end{longtable}
+\par\noindent\footnotesize\textit{Note.} Retain all three completed original country-specific peak protocols and every declared computational seed for every method. Report the training optimizer termination flag separately; do not select countries or seeds by forecast error. The earlier retrospective positive-exit-flag restriction is retained as a converged-initializer sensitivity subset. The completed Pakistani experiment is restored to the primary descriptive analysis with its evaluation-limit termination disclosed. Neither analysis is preregistered or independent validation.
+\endgroup

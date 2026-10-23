@@ -1,0 +1,28 @@
+% Generated from current MATLAB exports. Include in the correct main/SI sequence.
+\begingroup\small\setlength{\tabcolsep}{3pt}
+\begin{longtable}{>{\raggedright\arraybackslash}p{0.18\linewidth}>{\raggedright\arraybackslash}p{0.34\linewidth}>{\raggedright\arraybackslash}p{0.36\linewidth}}
+\caption{Distinct analysis protocols used in the manuscript. Reference ensembles must be matched to their own experiment.} \label{tab:source-protocols} \\
+\toprule
+Experiment & Initializer and target & Reported quantities \\
+\midrule
+\endfirsthead
+\caption[]{Distinct analysis protocols used in the manuscript. Reference ensembles must be matched to their own experiment.} \\
+\toprule
+Experiment & Initializer and target & Reported quantities \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+Static benchmarks & Separate Q-only and joint Q/R LSM/PLE & Deterministic RMSE and Poisson criteria; targets differ \\
+Hybrid comparison & Wave-specific PLE; expected Poisson information; matched EnKF/EnKPF & Fitted Q/R RMSE and criterion; aligned EnKF endpoint diagnostics \\
+Standalone PF & Own static center, information, and matched EnKF reference & Paired PF/EnKF fit; PF diversity; separate from hybrid EnKF \\
+Peak forecast & Training-only LSM with termination flags disclosed; original and five-seed repetitions & Completed three-country peaks; separate converged Korea/Japan subset; fixed cutoff parameters; no future assimilation or process noise; latent interval evaluation \\
+Behavioral scenarios & Wave-time mean hybrid parameters; common initial states & Early: +5\% beta\_f at 10\% of elapsed wave duration; late: +5\% at 30\%. The perturbation magnitude is held fixed, so this contrast isolates activation timing within the fitted model. These conditional simulations do not estimate a causal policy effect. \\
+Global LHS-PRCC & Common 3,000-point design over pooled fitted ranges & Equal mean of nine population-normalized terminal Q/R outcomes \\
+\end{longtable}
+\par\noindent\footnotesize\textit{Note.} This is declared methodological metadata, not an independently calculated result. Reference ensembles must be matched to their own experiment.
+\endgroup

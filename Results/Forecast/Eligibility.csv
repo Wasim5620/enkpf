@@ -1,0 +1,4 @@
+Country,OriginalRunID,OriginalSeed,OriginalOptimizerExitFlag,OriginalOptimizerIterations,OriginalOptimizerEvaluations,RepeatedRuns,RepeatedSeeds,RepeatedOptimizerExitFlags,Included,PrimaryIncluded,ConvergedSubsetIncluded,Reason
+Korea,Korea_W1_Peak2_Cutoff_S1_N200,1,1,507,825,5,0;1;123;2026;202601,1;1;1;1;1,True,True,True,Completed forecast; positive training-optimizer exit flags; all five seeds retained.
+Japan,Japan_W1_Peak_Cutoff_S123_N200,123,1,382,657,5,0;1;123;2026;202601,1;1;1;1;1,True,True,True,Completed forecast; positive training-optimizer exit flags; all five seeds retained.
+Pakistan,Pakistan_W1_Peak_Cutoff_S1_N200,1,0,895,1501,5,0;1;123;2026;202601,0;0;0;0;0,True,True,False,Completed forecast retained; LSM reached its evaluation budget (flag 0); omitted only from the converged-initializer sensitivity subset.

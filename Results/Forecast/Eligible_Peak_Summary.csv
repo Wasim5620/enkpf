@@ -1,0 +1,9 @@
+Horizon,Method,MacroNRMSE,SharedSeedMacroSD,LatentCoverage95Percent,Countries,Origins,Seeds,CountrySeedRuns,OutcomeRows,Aggregation
+14-day,EnKF,16.494044001786623,5.136967225102438,98.21428571428571,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+14-day,EnKPF,0.3811921547842485,0.38603474370836754,90.71428571428571,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+14-day,StaticLSM,1.1996121905312493,0.0,,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+14-day,Persistence,0.9611651702299484,0.0,,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+Full remainder,EnKF,783.981351720677,268.4425220368537,99.54545454545455,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+Full remainder,EnKPF,27.943541715138803,57.883932757007095,91.63636363636363,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+Full remainder,StaticLSM,1.1113393886187386,0.0,,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
+Full remainder,Persistence,1.9307529750427612,0.0,,Korea;Japan,2,5,10,20,"Equal Q/R, five seeds, and 2 country-specific origins"
