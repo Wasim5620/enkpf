@@ -1,0 +1,10 @@
+Country,Wave,Start_date,End_date,Duration_days,Observation_days,Excel_first_row,Excel_last_row,Population,Initial_Q,Initial_R,Previous_terminal_S,Excel_source,MAT_source
+South Korea,1,2020-02-16,2020-08-11,177,178,27,204,52000000.0,20.0,9.0,,Data\Coviddata-korea1.xlsx,Korea\Results\Results_EnKPF_LSM\Korea_EnKPF_G_workspace.mat
+South Korea,2,2020-08-11,2020-11-11,92,93,204,296,52000000.0,626.0,13729.0,32091437.528880402,Data\Coviddata-korea1.xlsx,Korea\Results\Results_EnKPF_LSM\Korea_EnKPF_G_workspace.mat
+South Korea,3,2020-11-11,2021-02-14,95,96,296,391,52000000.0,2044.0,25266.0,18567599.195607502,Data\Coviddata-korea1.xlsx,Korea\Results\Results_EnKPF_LSM\Korea_EnKPF_G_workspace.mat
+Japan,1,2020-03-10,2020-06-28,110,111,50,160,125800000.0,431.0,102.0,,Data\covid_data-japan1.xlsx,Japan\Results\Results_EnKPF_LSM\Jap_EnKPF_G_workspace.mat
+Japan,2,2020-06-28,2020-10-21,115,116,160,275,125800000.0,985.0,16452.0,73031612.62228243,Data\covid_data-japan1.xlsx,Japan\Results\Results_EnKPF_LSM\Jap_EnKPF_G_workspace.mat
+Japan,3,2020-10-21,2021-02-14,116,117,275,391,125800000.0,5840.0,87107.0,36218764.84187561,Data\covid_data-japan1.xlsx,Japan\Results\Results_EnKPF_LSM\Jap_EnKPF_G_workspace.mat
+Pakistan,1,2020-03-17,2020-10-13,210,211,20,230,221000000.0,234.0,2.0,,Data\covid_data-pak1.xlsx,Pak\Results\Results_EnKPF_LSM\Pak_EnKPF_G_workspace.mat
+Pakistan,2,2020-10-13,2021-03-07,145,146,230,375,221000000.0,8651.0,304609.0,98588675.51729758,Data\covid_data-pak1.xlsx,Pak\Results\Results_EnKPF_LSM\Pak_EnKPF_G_workspace.mat
+Pakistan,3,2021-03-07,2021-06-20,105,106,375,480,221000000.0,18055.0,559248.0,36122264.499406435,Data\covid_data-pak1.xlsx,Pak\Results\Results_EnKPF_LSM\Pak_EnKPF_G_workspace.mat

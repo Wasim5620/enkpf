@@ -1,0 +1,4 @@
+Country,OriginalOptimizerExitFlag,OriginalOptimizerEvaluations,PrimaryIncluded,ConvergedSubsetIncluded,Reason
+Korea,1,825,True,True,Completed forecast; positive training-optimizer exit flags; all five seeds retained.
+Japan,1,657,True,True,Completed forecast; positive training-optimizer exit flags; all five seeds retained.
+Pakistan,0,1501,True,False,Completed forecast retained; LSM reached its evaluation budget (flag 0); omitted only from the converged-initializer sensitivity subset.

@@ -1,0 +1,16 @@
+Source,Bytes,Modified_UTC,SHA256
+Data/Korea/Results/Results_EnKPF_LSM/Korea_complete_results.xlsx,123209,2026-10-15T10:20:20.498887+00:00,56b71afbb1b0fc8a573c4e29526948dbd04b74fd03766cecd55f5f5b91e2e8f7
+Data/Coviddata-korea1.xlsx,78321,2022-06-27T06:54:29+00:00,22aa5217011d4aadcc248db6114f90bef29ae9c3476b8d2b5f870c8d92cd5b76
+Data/Korea/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv,978,2026-10-16T05:10:34.435086+00:00,6ec87dcd0b3e32fd3f5f427265857b3bcadbd6cac7513d543561422172ed44c7
+Data/Korea/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv,249,2026-10-16T05:10:34.442220+00:00,f46726336c7156db82d26bc161719119d3ea37c104308146c65467f63737a6ff
+Data/Korea/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv,781,2026-10-16T05:10:34.426083+00:00,0d421f536ccfbe84cae817acc4c18bea8c668996f9e994243d4cce8ec28420e0
+Data/Japan/Results/Results_EnKPF_LSM/Jap_complete_results.xlsx,110077,2026-10-15T10:21:01.457623+00:00,92227ec9a343045964245c920f89d04c2752f046ee8fca7a06311226fd8aab7a
+Data/covid_data-japan1.xlsx,49240,2025-09-16T05:30:39+00:00,c62ac6129b8f6e7a61f2f32779b1ed8df1685323650780fcdfaadcebb92bfd5d
+Data/Japan/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv,1001,2026-10-16T05:09:32.392077+00:00,9f2f43d9d3933f88133ae4e5ffb61c06a4800ff7290df2ca4fd3473feb2644f5
+Data/Japan/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv,253,2026-10-16T05:09:32.402078+00:00,d33070ebf0a5ce37973c623b8e3a6f0ef9be4b0ac58c533e5188088bc913661d
+Data/Japan/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv,803,2026-10-16T05:09:32.376084+00:00,f892c96f696a842842588ec7790468a050e8ed5c5143a80507ea78c6717ebc4e
+Data/Pak/Results/Results_EnKPF_LSM/Pak_complete_results.xlsx,146215,2026-10-15T10:19:38.525158+00:00,119cd735073793b00b2526d78c97f27a65e118eca54f2af5ee757f81fa721330
+Data/covid_data-pak1.xlsx,59968,2023-03-21T18:27:00+00:00,62f16d0f19e27e59c231dd69d7e5a9c40e053d436f1fa2b280671485c801c2e4
+Data/Pak/Results/Policy/xlsx/EnKPF_G_wave_policy_summary.csv,1003,2026-10-16T05:10:01.948295+00:00,84ef3ea46426d41df56d861f9207fe3e20cf39ddf635426931061de6c859e892
+Data/Pak/Results/Policy/xlsx/EnKPF_G_policy_parameters.csv,249,2026-10-16T05:10:01.956297+00:00,50a18b3c49d3337f1da473bbaf5a41a5996dd12887047a56c5d83a9ee533d3f2
+Data/Pak/Results/Policy/xlsx/EnKPF_G_policy_impact_summary.csv,805,2026-10-16T05:10:01.939019+00:00,cf1f6f58ce9e3efc0f550d8123c2bf318e8931da5fee0f7bb9b0cc5ffb9ca0db

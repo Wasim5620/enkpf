@@ -1,0 +1,10 @@
+Country,Wave,N0,S0,I0,Q0,R0
+Korea,1,52000000,"N0 - Q0 - R0 - fitted I0, Wave 1","Fitted I0, Wave 1",20,9
+Korea,2,52000000,"S1,end (EnKPF)","Fitted I0, Wave 2",626,13729
+Korea,3,52000000,"S2,end (EnKPF)","Fitted I0, Wave 3",2044,25266
+Japan,1,125800000,"N0 - Q0 - R0 - fitted I0, Wave 1","Fitted I0, Wave 1",431,102
+Japan,2,125800000,"S1,end (EnKPF)","Fitted I0, Wave 2",985,16452
+Japan,3,125800000,"S2,end (EnKPF)","Fitted I0, Wave 3",5840,87107
+Pakistan,1,221000000,"N0 - Q0 - R0 - fitted I0, Wave 1","Fitted I0, Wave 1",234,2
+Pakistan,2,221000000,"S1,end (EnKPF)","Fitted I0, Wave 2",8651,304609
+Pakistan,3,221000000,"S2,end (EnKPF)","Fitted I0, Wave 3",18055,559248

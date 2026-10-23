@@ -1,0 +1,43 @@
+{
+  "Scope": "4 main tables, 20 supplementary tables, 7 main figures, 7 supplementary figures",
+  "NumericalModelRun": false,
+  "ForecastCountries": [
+    "Korea",
+    "Japan",
+    "Pakistan"
+  ],
+  "ForecastOriginalOutcomes": 6,
+  "ConvergedSubsetCountries": [
+    "Korea",
+    "Japan"
+  ],
+  "ForecastComparisons": {
+    "14-day": {
+      "EnKPF_lower_RMSE_than_EnKF": 21,
+      "PairedOutcomes": 30
+    },
+    "Full remainder": {
+      "EnKPF_lower_RMSE_than_EnKF": 24,
+      "PairedOutcomes": 30
+    }
+  },
+  "ForecastEligibility": "The earlier retrospective positive-exit-flag restriction is retained as a converged-initializer sensitivity subset. The completed Pakistani experiment is restored to the primary descriptive analysis with its evaluation-limit termination disclosed. Neither analysis is preregistered or independent validation.",
+  "NativeSourceSHA256": {
+    "Data/NativeForecast/script_reproduction/Run_Manifest.csv": "eae079e9b61e65a8480ee609bacaba66115543bc7ea54c29782b5babf04c0b6f",
+    "Data/NativeForecast/script_reproduction/Fit_Diagnostics.csv": "b46946107480a95def1f9bca920fa2975522024823a2a932ab066559419ab269",
+    "Data/NativeForecast/script_reproduction/Forecast_Metrics.csv": "b2bee16814b6057107ee0864ed93d9daf9176554a55ba15cda905d6724047153",
+    "Data/NativeForecast/script_reproduction/Forecast_Predictions.csv": "115ac2e188e0196918e08f0fcfcb47a895b44d3c96e3b2f2980d92ec9ade0ff7",
+    "Data/NativeForecast/peak_stability/Run_Manifest.csv": "006390d30d8bf40273fb0dc4d1fd681624d93cfb7a3302edb941c18917c37587",
+    "Data/NativeForecast/peak_stability/Fit_Diagnostics.csv": "8fe12385eb1794ec41fe9081346c7fc5ac2211aa0ee0d5d658cbad19297b8085",
+    "Data/NativeForecast/peak_stability/Forecast_Metrics.csv": "dd24f2326b1401da1ae33c291515a4b9cee978fe65b12c82f785758784cc545b",
+    "Data/NativeForecast/peak_stability/Forecast_Predictions.csv": "15a159938461c86575f56861618b30767a45372eacfb4d303edea8b33b77aebc",
+    "Data/NativeForecast/Native_Result_Review.json": "d44041186ae050c8c8cd42086b2a0a17440394aecfb6923a0161052aab5b5df3"
+  },
+  "CanonicalSourceSHA256": {
+    "Data/Provenance/Table_Captions.json": "eaa6a3ec98ba1dc475be09d5861b7703a739b01c9cbfbc3759c33f59bffb0934"
+  },
+  "JBEndpointRejections": 6,
+  "MardiaEndpointRejections": 2,
+  "RebuildSavedResultPlots": false,
+  "ExportNumberedTables": true
+}

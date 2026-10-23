@@ -1,0 +1,9 @@
+Scope,Method,MacroNRMSE,SharedSeedMacroSD,LatentCoverage95Percent
+"All completed origins (Korea, Japan, Pakistan)",EnKF,11.1502191541237,3.46358671765373,98.8095238095238
+"All completed origins (Korea, Japan, Pakistan)",EnKPF,0.417617284117264,0.246818032778612,81.6666666666667
+"All completed origins (Korea, Japan, Pakistan)",StaticLSM,1.24185250151577,0,
+"All completed origins (Korea, Japan, Pakistan)",Persistence,0.929805809010896,0,
+"Converged-initializer subset (Korea, Japan)",EnKF,16.4940440017866,5.13696722510244,98.2142857142857
+"Converged-initializer subset (Korea, Japan)",EnKPF,0.381192154784249,0.386034743708368,90.7142857142857
+"Converged-initializer subset (Korea, Japan)",StaticLSM,1.19961219053125,0,
+"Converged-initializer subset (Korea, Japan)",Persistence,0.961165170229948,0,

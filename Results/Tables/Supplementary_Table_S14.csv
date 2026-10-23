@@ -1,0 +1,7 @@
+Experiment,Initializer and target,Reported quantities
+Static benchmarks,Separate Q-only and joint Q/R LSM/PLE,Deterministic RMSE and Poisson criteria; targets differ
+Hybrid comparison,Wave-specific PLE; expected Poisson information; matched EnKF/EnKPF,Fitted Q/R RMSE and criterion; aligned EnKF endpoint diagnostics
+Standalone PF,"Own static center, information, and matched EnKF reference",Paired PF/EnKF fit; PF diversity; separate from hybrid EnKF
+Peak forecast,Training-only LSM with termination flags disclosed; original and five-seed repetitions,Completed three-country peaks; separate converged Korea/Japan subset; fixed cutoff parameters; no future assimilation or process noise; latent interval evaluation
+Behavioral scenarios,Wave-time mean hybrid parameters; common initial states,"Early: +5% beta_f at 10% of elapsed wave duration; late: +5% at 30%. The perturbation magnitude is held fixed, so this contrast isolates activation timing within the fitted model. These conditional simulations do not estimate a causal policy effect."
+Global LHS-PRCC,"Common 3,000-point design over pooled fitted ranges",Equal mean of nine population-normalized terminal Q/R outcomes

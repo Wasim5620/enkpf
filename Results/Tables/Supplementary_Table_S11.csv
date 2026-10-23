@@ -1,0 +1,4 @@
+Country,Origin,Cutoff date,Train/test days,Seed
+Korea,Second peak (Wave 1),2020-06-24,130/48,1
+Japan,Observed peak (Wave 1),2020-05-04,56/55,123
+Pakistan,Observed peak (Wave 1),2020-07-02,108/103,1
